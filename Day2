@@ -1,0 +1,92 @@
+1️⃣ NUMBER SYSTEM – ADVANCED (REMAINDERS & LAST DIGIT)
+
+This area is very important for placement exams because questions are short but tricky.
+
+🔹 A. REMAINDER CONCEPT (Deep Explanation)
+📌 Basic Rule
+
+When a number A is divided by B:
+
+A = B × Q + R
+Where R = remainder and
+👉 R is always less than B
+
+🔹 Example 1 (Basic)
+
+Find remainder when 38 ÷ 7
+
+7 × 5 = 35
+38 − 35 = 3
+
+✅ Remainder = 3
+
+🔹 Example 2 (Big Number Trick)
+
+Find remainder when 123 ÷ 9
+
+Rule:
+If sum of digits divisible by 9 → number divisible by 9
+
+1 + 2 + 3 = 6
+6 ÷ 9 ❌
+
+👉 Remainder = 6
+
+🔹 Example 3 (Power Remainder – Important)
+
+Find remainder when 2⁵ ÷ 3
+
+2⁵ = 32
+32 ÷ 3 → remainder 2
+
+✅ Answer = 2
+
+🔹 B. LAST DIGIT CONCEPT
+
+Used when numbers are very large.
+
+📌 Trick
+
+Last digits repeat in a cycle.
+
+Example for 2:
+2¹ → 2
+2² → 4
+2³ → 8
+2⁴ → 6
+(Repeat every 4)
+
+🔹 Example 4
+
+Find last digit of 2¹⁰
+
+Cycle length = 4
+10 ÷ 4 → remainder = 2
+
+So last digit = 4
+
+🔹 Example 5 (Very Common)
+
+Find last digit of 7³⁵
+
+Cycle of 7:
+7, 9, 3, 1
+
+35 ÷ 4 → remainder = 3
+3rd number in cycle = 3
+
+✅ Answer = 3
+
+📝 PRACTICE QUESTIONS (WITH PURPOSE)
+
+Find remainder when 57 ÷ 8
+
+Find remainder when 256 ÷ 9
+
+Find last digit of 3¹⁷
+
+Find last digit of 9⁴⁶
+
+Find remainder when 5⁷ ÷ 4
+
+(These exact patterns appear in placements)
