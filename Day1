@@ -1,0 +1,110 @@
+1️⃣ NUMBER SYSTEM – FOUNDATION (Deep Explanation)
+🔹 What is Number System?
+
+Number System questions test:
+
+Calculation ability
+
+Logical thinking
+
+Speed & accuracy
+
+These are very common in placement aptitude tests.
+
+🔹 Types of Numbers (Very Important)
+1. Natural Numbers
+
+👉 1, 2, 3, 4, …
+Used for counting.
+
+2. Whole Numbers
+
+👉 0, 1, 2, 3, …
+Includes zero.
+
+3. Integers
+
+👉 … -3, -2, -1, 0, 1, 2, 3 …
+
+4. Prime Numbers
+
+👉 Numbers having only 2 factors (1 and itself)
+Examples: 2, 3, 5, 7, 11
+
+⚠️ 2 is the only even prime number
+
+5. Composite Numbers
+
+👉 Numbers having more than 2 factors
+Examples: 4, 6, 8, 9, 10
+
+🔹 Example 1 (Prime or Not)
+
+Is 31 a prime number?
+
+Check divisibility by:
+2 ❌
+3 ❌
+5 ❌
+
+No other factors → 31 is PRIME ✅
+
+🔹 LCM & HCF (Most Asked)
+🔸 HCF (Highest Common Factor)
+
+Largest number that divides both numbers.
+
+🔸 LCM (Least Common Multiple)
+
+Smallest number divisible by both numbers.
+
+🔹 Example 2 (Step-by-step)
+
+Find HCF and LCM of 20 and 30
+
+20 = 2 × 2 × 5
+30 = 2 × 3 × 5
+
+HCF = 2 × 5 = 10
+LCM = 2 × 2 × 3 × 5 = 60
+
+🔹 Divisibility Rules (Must Remember)
+
+Divisible by 2 → last digit even
+
+Divisible by 3 → sum of digits divisible by 3
+
+Divisible by 5 → last digit 0 or 5
+
+Divisible by 9 → sum of digits divisible by 9
+
+🔹 Example 3
+
+Is 7,236 divisible by 3?
+
+7 + 2 + 3 + 6 = 18
+18 ÷ 3 = 6
+
+✅ Yes, divisible by 3
+
+🔹 Remainder Concept
+Example 4
+
+Find remainder when 47 ÷ 6
+
+6 × 7 = 42
+47 − 42 = 5
+
+Remainder = 5
+
+📝 PRACTICE (Very Important)
+
+Is 41 prime or composite?
+
+Find HCF of 18 and 27
+
+Find LCM of 8 and 12
+
+Is 5,472 divisible by 9?
+
+Find remainder when 89 ÷ 7
