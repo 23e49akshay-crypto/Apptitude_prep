@@ -1,0 +1,77 @@
+NUMBER SYSTEM – UNITS DIGIT & CYCLICITY (ADVANCED)
+
+These questions are very common in campus placements because they test speed + logic.
+
+🔹 A. UNITS DIGIT CONCEPT (Deeply Explained)
+
+The units digit is the last digit of a number.
+
+Example:
+
+Units digit of 345 → 5
+
+Units digit of 1028 → 8
+
+When powers are involved, digits repeat in cycles.
+
+🔹 B. CYCLE OF DIGITS (MUST MEMORIZE)
+🔸 Cycle of 2
+
+2 → 4 → 8 → 6 (repeats every 4)
+
+🔸 Cycle of 3
+
+3 → 9 → 7 → 1 (repeats every 4)
+
+🔸 Cycle of 7
+
+7 → 9 → 3 → 1 (repeats every 4)
+
+🔸 Cycle of 9
+
+9 → 1 (repeats every 2)
+
+🔹 Example 1 (Step-by-step)
+
+Find the units digit of 3²³
+
+Cycle length = 4
+23 ÷ 4 → remainder = 3
+
+3rd number in cycle of 3 = 7
+
+✅ Answer = 7
+
+🔹 Example 2 (Tricky)
+
+Find units digit of 9⁵⁷
+
+Cycle of 9 = 9, 1
+57 is odd
+
+So units digit = 9
+
+🔹 Example 3 (Combined Concept)
+
+Find units digit of (7²⁴ + 3¹⁵)
+
+7²⁴ → 24 ÷ 4 = 0 → units digit = 1
+3¹⁵ → 15 ÷ 4 = 3 → units digit = 7
+
+Add: 1 + 7 = 8
+
+✅ Answer = 8
+
+📝 PRACTICE QUESTIONS
+
+Find units digit of 2³⁵
+
+Find units digit of 6¹²³
+
+Find units digit of 7⁴⁵
+
+Find units digit of (3²² + 9⁵¹)
+
+Find units digit of 8⁷⁶
+
+(Solve using cycles only — no calculation)
