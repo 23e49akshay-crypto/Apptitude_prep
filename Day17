@@ -1,0 +1,86 @@
+1️⃣ PERMUTATION & COMBINATION – BASICS (VERY IMPORTANT)
+
+This is one of the most important placement topics.
+Many companies ask at least 1–2 questions from here.
+
+🔹 A. PERMUTATION (ARRANGEMENT)
+
+Permutation is used when order matters.
+
+Example:
+Arranging 3 students in 3 chairs.
+
+Formula:
+
+𝑛𝑃𝑟=𝑛!(𝑛−𝑟)!nPr	​=(n−r)!n!	​
+🔹 Factorial Concept (Must Know)
+5!=5×4×3×2×1=120
+5!=5×4×3×2×1=120
+0
+!
+=
+1
+0!=1
+🔹 Example 1
+
+In how many ways can 3 letters be arranged from A, B, C?
+
+3
+!
+=
+6
+3!=6
+
+Arrangements:
+ABC, ACB, BAC, BCA, CAB, CBA
+
+🔹 Example 2
+
+Find value of:
+
+5𝑃25P2	​=5!3!=3!5!	​=5×4×3!3!=3!
+5×4×3!
+	​
+
+
+= 20
+
+🔹 B. COMBINATION (SELECTION)
+
+Combination is used when order does NOT matter.
+
+Formula:
+
+𝑛𝐶𝑟=𝑛!𝑟!(𝑛−𝑟)!nCr=r!(n−r)!n!
+	​
+
+🔹 Example 3
+
+In how many ways can 2 students be selected from 4?
+
+4𝐶2=4!2!2!4z2	​=2!2!4!	​=244=424	​= 6
+
+🔹 C. IMPORTANT DIFFERENCE
+
+Permutation → Order matters
+Combination → Order does not matter
+
+Example:
+AB and BA
+Permutation → different
+Combination → same
+
+📝 PRACTICE QUESTIONS
+
+Find value of 
+6𝑃26P2	​
+Find value of 
+6𝐶26C2
+	​
+
+
+In how many ways can 4 letters be arranged?
+
+In how many ways can 3 students be selected from 5?
+Find value of 7𝐶17C1
+	​
