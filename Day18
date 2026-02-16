@@ -1,0 +1,106 @@
+Placement Aptitude Training (Teacher Mode)
+
+1️⃣ PERMUTATION & COMBINATION – ADVANCED
+
+Today we cover:
+
+Circular permutation
+
+Special cases
+
+Repetition cases
+
+These are very common in placement exams.
+
+🔹 A. CIRCULAR PERMUTATION
+
+When objects are arranged in a circle, formula changes.
+
+📌 Formula:
+
+For n different objects arranged in a circle:
+
+(𝑛−1)!
+(n−1)!
+🔹 Example 1
+
+In how many ways can 4 people sit around a round table?
+
+(4−1)!=3!=6
+🔹 Example 2
+
+5 people around a circular table?
+
+
+(5−1)!=4!=24
+🔹 B. ARRANGEMENT WITH IDENTICAL OBJECTS
+
+Formula:
+
+𝑛!𝑝!𝑞!𝑟!
+p!q!r!
+n!
+	​
+
+
+(where p, q, r are repeated items)
+
+🔹 Example 3
+
+How many arrangements of word “LEVEL”?
+
+Letters: L, E, V, E, L
+Total letters = 5
+L repeats 2 times
+E repeats 2 times
+
+5!2!2!2!2!5!
+	​
+
+=
+120
+4
+=
+30
+=
+4
+120
+	​
+
+=30
+🔹 C. SELECTION WITH REPETITION
+
+If repetition allowed:
+
+𝑛𝐶𝑟=(𝑛+𝑟−1)!𝑟!(𝑛−1)!nCr	​
+=
+r!(n−1)!
+(n+r−1)!
+	​
+
+🔹 Example 4
+
+In how many ways can 3 chocolates be chosen from 5 types (repetition allowed)?
+
+5𝐶3=(5+3−1)!3!(5−1)!5C3	​=
+3!(5−1)!
+(5+3−1)=7𝐶3=35=7C3
+	​
+
+=35
+🔹 D. IMPORTANT DIFFERENCE
+
+Linear arrangement → n!
+Circular arrangement → (n − 1)!
+
+📝 PRACTICE QUESTIONS
+
+In how many ways can 6 people sit around a table?
+
+How many arrangements of word “APPLE”?
+
+How many ways to select 2 students from 5?
+
+How many ways to choose 4 fruits from 3 types (repetition allowed)?
+
+How many circular arrangements of 7 people?
