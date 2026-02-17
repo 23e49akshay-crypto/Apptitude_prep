@@ -1,0 +1,94 @@
+1️⃣ PROBABILITY – BASICS (VERY IMPORTANT)
+
+Probability is directly connected to Permutation & Combination.
+Many companies ask at least 1 question from this topic.
+
+🔹 A. WHAT IS PROBABILITY?
+
+Probability measures the chance of an event happening.
+
+📌 Formula:
+𝑃𝑟𝑜𝑏𝑎𝑏𝑖𝑙𝑖𝑡𝑦=𝐹𝑎𝑣𝑜𝑢𝑟𝑎𝑏𝑙𝑒 𝑂𝑢𝑡𝑐𝑜𝑚𝑒𝑠𝑇𝑜𝑡𝑎𝑙 𝑂𝑢𝑡𝑐𝑜𝑚𝑒𝑠
+Probability=
+Total Outcomes
+Favourable Outcomes
+	​
+
+
+Value is always between 0 and 1.
+
+🔹 B. BASIC EXAMPLES
+🔹 Example 1 (Coin)
+
+What is probability of getting Head?
+
+Total outcomes = {H, T} = 2
+Favourable = {H} = 1
+
+𝑃=12P=21
+	​
+
+🔹 Example 2 (Dice)
+
+Probability of getting 4?
+
+Total outcomes = 6
+Favourable = 1
+
+𝑃=16P=61
+	​
+
+🔹 C. PROBABILITY OF NOT HAPPENING
+𝑃(𝑁𝑜𝑡 𝐴)=1−𝑃(𝐴)
+P(Not A)=1−P(A)
+🔹 Example 3
+
+Probability of NOT getting 6 on dice?
+
+1−16=561−61	​=65
+	​
+
+🔹 D. MULTIPLE EVENTS (IMPORTANT)
+
+If events are independent:
+
+𝑃(𝐴∩𝐵)=𝑃(𝐴)×𝑃(𝐵)
+P(A∩B)=P(A)×P(B)
+🔹 Example 4
+
+Probability of getting:
+Head AND 4 (coin + dice)
+
+=12×16=21	​×61
+	​
+
+
+= 1/12
+
+🔹 E. USING COMBINATION
+🔹 Example 5
+
+From 5 red and 3 blue balls, probability of selecting 2 red?
+
+Total ways:
+
+8𝐶28C2
+	​
+
+
+Favourable:
+
+5𝐶25C2	​𝑃=5𝐶28𝐶2P=8C2	​5C2	​	​=1028=514=281	​=145
+	​
+
+📝 PRACTICE QUESTIONS
+
+Probability of getting an even number on dice?
+
+Probability of getting at least one head in two coin tosses?
+
+From 4 boys and 3 girls, probability of selecting 2 girls?
+
+Probability of NOT getting a 3 on dice?
+
+Two dice thrown — probability of getting sum 7?
