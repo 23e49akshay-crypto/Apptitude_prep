@@ -1,0 +1,84 @@
+1️⃣ PROBABILITY – CONDITIONAL PROBABILITY (ADVANCED)
+
+This is a very important placement topic.
+Many companies test whether you truly understand probability.
+
+🔹 A. WHAT IS CONDITIONAL PROBABILITY?
+
+Conditional probability means:
+
+👉 Probability of event A, given that event B has already happened.
+
+📌 Formula:
+𝑃(𝐴∣𝐵)z𝑃(𝐴∩𝐵)𝑃(𝐵)
+P(A∣B)=
+P(B)
+P(A∩B)
+	​
+
+🔹 B. BASIC UNDERSTANDING
+
+“Given B happened” means:
+We restrict our sample space to B only.
+
+🔹 Example 1 (Cards)
+
+From a deck of 52 cards:
+
+What is probability that a card is a King, given that it is a face card?
+
+Face cards = 12 (J, Q, K)
+Kings = 4
+
+
+P(K∣Face)=
+12
+4
+	​
+
+=
+3
+1
+	​
+
+🔹 C. INDEPENDENT EVENTS
+
+If A and B are independent:
+
+
+P(A∣B)=P(A)
+
+Example:
+Coin toss does not affect dice roll.
+
+🔹 D. BAYES’ TYPE QUESTION (COMMON)
+🔹 Example 2
+
+A bag has:
+
+3 red balls
+
+2 blue balls
+
+If one ball is drawn, probability it is red given that it is not blue?
+
+Not blue means red only.
+
+P(Red∣Not Blue)=1
+🔹 E. MULTI-STEP QUESTION
+🔹 Example 3
+
+Two cards drawn without replacement.
+
+Probability that second card is Ace given first card was Ace?
+
+Total aces = 4
+
+After first Ace removed:
+
+Remaining cards = 51
+Remaining aces = 3
+
+𝑃=351=117
+P=513=171
+	​
