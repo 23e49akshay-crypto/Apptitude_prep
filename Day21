@@ -1,0 +1,90 @@
+1️⃣ STATISTICS – MEAN, MEDIAN, MODE (VERY IMPORTANT)
+
+Statistics questions are common in placements, especially in:
+
+Data Interpretation
+
+Analytical rounds
+
+🔹 A. MEAN (AVERAGE)
+📌 Formula:
+
+Mean=
+Number of observations
+Sum of observations
+	​
+
+🔹 Example 1
+
+Find mean of: 5, 10, 15, 20
+
+Sum = 50
+Count = 4
+
+
+Mean=50/4=12.5
+🔹 Shortcut Formula (Very Useful)
+
+If numbers are:
+
+a, a+d, a+2d, a+3d (AP)
+
+Mean = Middle value (if even, average of two middle values)
+
+🔹 B. MEDIAN
+
+Median = Middle value after arranging data in order
+
+🔹 Example 2
+
+Find median of: 8, 3, 10, 5, 6
+
+Arrange: 3, 5, 6, 8, 10
+
+Middle = 6
+
+If even numbers:
+
+Example: 2, 4, 6, 8
+
+Median = (4 + 6)/2 = 5
+
+🔹 C. MODE
+
+Mode = Most frequently occurring value
+
+🔹 Example 3
+
+2, 3, 3, 4, 5, 3
+
+Mode = 3
+
+🔹 D. COMBINED MEAN (PLACEMENT FAVORITE)
+🔹 Example 4
+
+Average of 10 students = 60
+Average of 20 students = 70
+
+Find combined average.
+
+
+(10×60)+(20×70)
+	​
+
+=
+600
++
+1400
+30
+=
+30
+600+1400
+	​
+
+=
+2000
+/
+30
+=
+66.67
+=2000/30=66.67
