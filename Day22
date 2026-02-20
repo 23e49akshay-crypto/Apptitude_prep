@@ -1,0 +1,125 @@
+1️⃣ STATISTICS – VARIANCE & STANDARD DEVIATION (PLACEMENT LEVEL)
+
+This topic checks your ability to understand spread of data.
+
+Mean tells the average.
+Standard deviation tells how much values deviate from the mean.
+
+🔹 A. VARIANCE (σ²)
+📌 Formula:
+
+
+Variance=
+n
+∑(x−
+x
+ˉ
+)
+2
+	​
+
+
+Where:
+
+𝑥
+x = each value
+
+𝑥
+ˉ
+x
+ˉ
+ = mean
+
+n = total numbers
+
+🔹 B. STANDARD DEVIATION (σ)
+
+SD=
+Variance
+	​
+
+🔹 Example 1 (Step-by-Step)
+
+Find SD of: 2, 4, 6
+
+Step 1: Find Mean
+
+
+Mean=(2+4+6)/3=4
+
+Step 2: Find deviations
+
+(2−4)² = 4
+(4−4)² = 0
+(6−4)² = 4
+
+Sum = 8
+
+Step 3: Variance
+
+=8/3
+
+Step 4: SD
+
+
+8/3
+	​
+
+🔹 Shortcut Formula (Important)
+
+Variance=
+n
+∑x
+2
+	​
+
+−(
+x
+ˉ
+)
+2
+
+This is faster in placements.
+
+🔹 Example 2 (Shortcut Method)
+
+Find variance of: 1, 2, 3
+
+Step 1: Mean = 2
+
+Step 2:
+
+∑
+𝑥
+2
+
+=1+4+9=14
+
+Variance=(14/3)−(2)
+2
+=
+14
+/
+3
+−
+4
+=14/3−4
+=
+=14/3−12/3=2/3
+🔹 Important Concept
+
+If all values are same → SD = 0
+
+Example: 5, 5, 5 → No variation
+
+📝 PRACTICE QUESTIONS
+
+Find variance of: 3, 3, 3
+
+Find mean of: 5, 10, 15
+
+Find variance using shortcut: 2, 4, 6
+
+If mean is 20 and variance 9, what is SD?
+
+Which dataset has higher spread: (2,4,6) or (4,4,4)?
