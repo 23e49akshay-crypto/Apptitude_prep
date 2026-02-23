@@ -1,0 +1,235 @@
+1️⃣ STATISTICS – MEAN, MEDIAN & MODE (VERY IMPORTANT)
+
+Statistics questions are common in placement tests and are usually easy scoring if basics are clear.
+
+🔹 A. MEAN (AVERAGE)
+📌 Formula:
+𝑀
+𝑒
+𝑎
+𝑛
+=
+𝑆
+𝑢
+𝑚
+ 
+𝑜
+𝑓
+ 
+𝑂
+𝑏
+𝑠
+𝑒
+𝑟
+𝑣
+𝑎
+𝑡
+𝑖
+𝑜
+𝑛
+𝑠
+𝑁
+𝑢
+𝑚
+𝑏
+𝑒
+𝑟
+ 
+𝑜
+𝑓
+ 
+𝑂
+𝑏
+𝑠
+𝑒
+𝑟
+𝑣
+𝑎
+𝑡
+𝑖
+𝑜
+𝑛
+𝑠
+Mean=
+Number of Observations
+Sum of Observations
+	​
+
+🔹 Example 1
+
+Find mean of: 5, 10, 15
+
+Sum = 30
+Count = 3
+
+𝑀
+𝑒
+𝑎
+𝑛
+=
+30
+3
+=
+10
+Mean=
+3
+30
+	​
+
+=10
+🔹 Example 2 (Combined Groups)
+
+Average of 10 students = 50
+Average of 20 students = 60
+
+Find overall average.
+
+𝑇
+𝑜
+𝑡
+𝑎
+𝑙
+ 
+𝑠
+𝑢
+𝑚
+=
+(
+10
+×
+50
+)
++
+(
+20
+×
+60
+)
+Total sum=(10×50)+(20×60)
+=
+500
++
+1200
+=
+1700
+=500+1200=1700
+
+Total students = 30
+
+𝑂
+𝑣
+𝑒
+𝑟
+𝑎
+𝑙
+𝑙
+ 
+𝑚
+𝑒
+𝑎
+𝑛
+=
+1700
+30
+=
+56.67
+Overall mean=
+30
+1700
+	​
+
+=56.67
+🔹 B. MEDIAN
+
+Median = Middle value after arranging data in ascending order.
+
+🔹 Example 3
+
+Find median of: 2, 8, 4, 10, 6
+
+Arrange: 2, 4, 6, 8, 10
+
+Middle value = 6
+
+Even Case Rule:
+
+If number of values is even:
+
+𝑀
+𝑒
+𝑑
+𝑖
+𝑎
+𝑛
+=
+𝑀
+𝑖
+𝑑
+𝑑
+𝑙
+𝑒
+ 
+𝑡
+𝑤
+𝑜
+ 
+𝑣
+𝑎
+𝑙
+𝑢
+𝑒
+𝑠
+2
+Median=
+2
+Middle two values
+	​
+
+🔹 C. MODE
+
+Mode = Most frequently occurring value.
+
+Example:
+
+2, 3, 3, 5, 6
+
+Mode = 3
+
+🔹 D. IMPORTANT RELATION
+
+For moderately skewed data:
+
+𝑀
+𝑜
+𝑑
+𝑒
+=
+3
+(
+𝑀
+𝑒
+𝑑
+𝑖
+𝑎
+𝑛
+)
+−
+2
+(
+𝑀
+𝑒
+𝑎
+𝑛
+)
+Mode=3(Median)−2(Mean)
+📝 PRACTICE QUESTIONS
+
+Find mean of 4, 8, 12, 16
+
+Find median of 7, 2, 9, 4
+
+Find mode of 5, 7, 7, 9, 10
+
+Average of 5 numbers is 20. Find total sum
+
+Two groups: 15 students avg 40, 25 students avg 60. Find overall average
