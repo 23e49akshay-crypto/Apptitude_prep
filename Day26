@@ -1,0 +1,144 @@
+1️⃣ STATISTICS – VARIANCE & STANDARD DEVIATION (BASICS)
+
+This topic tests:
+
+Understanding of data spread
+
+Concept clarity
+
+Calculation accuracy
+
+Many companies ask basic conceptual questions, not heavy calculations.
+
+🔹 A. WHAT IS VARIANCE?
+
+Variance tells us how much the data values deviate from the mean.
+
+📌 Formula:
+𝑉
+𝑎
+𝑟
+𝑖
+𝑎
+𝑛
+𝑐
+𝑒
+=
+∑
+(
+𝑥
+−
+𝑥
+ˉ
+)
+2
+𝑛
+Variance=
+n
+∑(x−
+x
+ˉ
+)
+2
+	​
+
+
+Where:
+
+𝑥
+x = value
+
+𝑥
+ˉ
+x
+ˉ
+ = mean
+
+𝑛
+n = number of observations
+
+🔹 B. WHAT IS STANDARD DEVIATION (SD)?
+
+Standard Deviation = Square root of variance.
+
+𝑆
+𝐷
+=
+𝑉
+𝑎
+𝑟
+𝑖
+𝑎
+𝑛
+𝑐
+𝑒
+SD=
+Variance
+	​
+
+
+It measures how spread out the data is.
+
+🔹 Example 1 (Step-by-Step)
+
+Find variance and SD of:
+2, 4, 6
+
+Step 1: Mean
+
+𝑥
+ˉ
+=
+2
++
+4
++
+6
+3
+=
+4
+x
+ˉ
+=
+3
+2+4+6
+	​
+
+=4
+
+Step 2: Deviations
+
+(2 − 4)² = 4
+(4 − 4)² = 0
+(6 − 4)² = 4
+
+Sum = 8
+
+Step 3: Variance
+
+8
+3
+3
+8
+	​
+
+
+Step 4: SD
+
+8
+/
+3
+8/3
+	​
+
+🔹 C. IMPORTANT CONCEPTS
+
+1️⃣ If all values are same → SD = 0
+2️⃣ Adding same number to all values → SD unchanged
+3️⃣ Multiplying all values by k → SD multiplies by |k|
+
+🔹 Example 2 (Concept Based)
+
+If every number is increased by 5, what happens to SD?
+
+Answer: No change
