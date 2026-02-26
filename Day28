@@ -1,0 +1,110 @@
+1️⃣ DATA INTERPRETATION – BAR GRAPHS & PIE CHARTS
+
+Today we learn how to handle graph-based DI questions.
+These are very common in campus placements.
+
+🔹 A. BAR GRAPH – BASIC UNDERSTANDING
+
+Bar graphs compare values using bars of different heights.
+
+📌 Example (Given Data)
+
+A company’s production (in units):
+
+Year	Production
+2020	200
+2021	300
+2022	250
+2023	400
+🔹 Example 1
+
+Which year had highest production?
+
+Answer: 2023 (400 units)
+
+🔹 Example 2
+
+What is total production from 2020 to 2023?
+
+200
++
+300
++
+250
++
+400
+=
+1150
+200+300+250+400=1150
+🔹 Example 3
+
+Percentage increase from 2022 to 2023?
+
+Increase = 400 − 250 = 150
+
+150
+250
+×
+100
+=
+60
+%
+250
+150
+	​
+
+×100=60%
+🔹 B. PIE CHART – BASIC CONCEPT
+
+Pie chart shows percentage distribution.
+
+📌 Example
+
+A company’s expenses:
+
+Category	Percentage
+Salary	40%
+Marketing	25%
+Rent	20%
+Misc	15%
+🔹 Example 4
+
+If total expense = ₹10,000
+How much spent on Salary?
+
+40
+%
+ 
+𝑜
+𝑓
+ 
+10
+,
+000
+=
+4
+,
+000
+40% of 10,000=4,000
+🔹 Example 5
+
+Difference between Marketing & Rent?
+
+25
+%
+−
+20
+%
+=
+5
+%
+25%−20%=5%
+
+If total = ₹10,000 → 5% = ₹500
+
+🔹 C. IMPORTANT DI TIPS
+
+1️⃣ Convert % to numbers quickly
+2️⃣ Compare before calculating
+3️⃣ Avoid unnecessary long calculations
+4️⃣ Watch units carefully
