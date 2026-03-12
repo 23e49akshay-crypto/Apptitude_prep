@@ -1,0 +1,279 @@
+1️⃣ TIME, SPEED & DISTANCE – BASICS
+
+This is one of the most common aptitude topics in placements.
+
+It is used in:
+
+Travel problems
+
+Train problems
+
+Relative speed questions
+
+🔹 A. BASIC FORMULA
+
+The fundamental relation:
+
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+=
+𝐷
+𝑖
+𝑠
+𝑡
+𝑎
+𝑛
+𝑐
+𝑒
+𝑇
+𝑖
+𝑚
+𝑒
+Speed=
+Time
+Distance
+	​
+
+
+From this we also get:
+
+𝐷
+𝑖
+𝑠
+𝑡
+𝑎
+𝑛
+𝑐
+𝑒
+=
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+×
+𝑇
+𝑖
+𝑚
+𝑒
+Distance=Speed×Time
+𝑇
+𝑖
+𝑚
+𝑒
+=
+𝐷
+𝑖
+𝑠
+𝑡
+𝑎
+𝑛
+𝑐
+𝑒
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+Time=
+Speed
+Distance
+	​
+
+🔹 Example 1
+
+A car travels 120 km in 2 hours.
+
+Speed:
+
+120
+2
+=
+60
+ 
+𝑘
+𝑚
+/
+ℎ
+2
+120
+	​
+
+=60 km/h
+🔹 Example 2
+
+Speed = 40 km/h
+Time = 3 hours
+
+Distance:
+
+40
+×
+3
+=
+120
+ 
+𝑘
+𝑚
+40×3=120 km
+🔹 Example 3
+
+Distance = 150 km
+Speed = 50 km/h
+
+Time:
+
+150
+50
+=
+3
+ 
+ℎ
+𝑜
+𝑢
+𝑟
+𝑠
+50
+150
+	​
+
+=3 hours
+🔹 B. IMPORTANT CONVERSION
+
+Most placement questions need unit conversion.
+
+1
+ 
+𝑘
+𝑚
+/
+ℎ
+=
+5
+18
+ 
+𝑚
+/
+𝑠
+1 km/h=
+18
+5
+	​
+
+ m/s
+1
+ 
+𝑚
+/
+𝑠
+=
+18
+5
+ 
+𝑘
+𝑚
+/
+ℎ
+1 m/s=
+5
+18
+	​
+
+ km/h
+Example 4
+
+Convert 72 km/h to m/s
+
+72
+×
+5
+18
+72×
+18
+5
+	​
+
+=
+20
+ 
+𝑚
+/
+𝑠
+=20 m/s
+🔹 C. AVERAGE SPEED
+
+Formula:
+
+𝐴
+𝑣
+𝑒
+𝑟
+𝑎
+𝑔
+𝑒
+ 
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+=
+𝑇
+𝑜
+𝑡
+𝑎
+𝑙
+ 
+𝐷
+𝑖
+𝑠
+𝑡
+𝑎
+𝑛
+𝑐
+𝑒
+𝑇
+𝑜
+𝑡
+𝑎
+𝑙
+ 
+𝑇
+𝑖
+𝑚
+𝑒
+Average Speed=
+Total Time
+Total Distance
+	​
+
+Example 5
+
+A car travels:
+
+60 km in 1 hour
+
+40 km in 1 hour
+
+Total distance = 100 km
+Total time = 2 hours
+
+Average speed:
+
+100
+2
+=
+50
+ 
+𝑘
+𝑚
+/
+ℎ
+2
+100
+	​
+
+=50 km/h
