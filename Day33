@@ -1,0 +1,208 @@
+1️⃣ TIME, SPEED & DISTANCE – RELATIVE SPEED
+
+Relative speed is used when two objects move with respect to each other.
+
+This concept is heavily used in:
+
+Train problems
+
+Boat problems
+
+Overtaking questions
+
+🔹 A. BASIC IDEA
+
+Relative speed = how fast two objects approach or move away from each other.
+
+Case 1: Same Direction
+𝑅
+𝑒
+𝑙
+𝑎
+𝑡
+𝑖
+𝑣
+𝑒
+ 
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+=
+∣
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+1
+−
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+2
+∣
+Relative Speed=∣Speed
+1
+	​
+
+−Speed
+2
+	​
+
+∣
+Example 1
+
+Car A = 80 km/h
+Car B = 60 km/h
+
+Same direction:
+
+80
+−
+60
+=
+20
+ 
+𝑘
+𝑚
+/
+ℎ
+80−60=20 km/h
+Case 2: Opposite Direction
+𝑅
+𝑒
+𝑙
+𝑎
+𝑡
+𝑖
+𝑣
+𝑒
+ 
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+=
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+1
++
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+2
+Relative Speed=Speed
+1
+	​
+
++Speed
+2
+	​
+
+Example 2
+
+Train A = 50 km/h
+Train B = 70 km/h
+
+Opposite direction:
+
+50
++
+70
+=
+120
+ 
+𝑘
+𝑚
+/
+ℎ
+50+70=120 km/h
+🔹 B. OVERTAKING PROBLEMS
+
+Used when faster object catches slower one.
+
+Example 3
+
+Car A = 60 km/h
+Car B = 40 km/h
+
+Relative speed:
+
+60
+−
+40
+=
+20
+ 
+𝑘
+𝑚
+/
+ℎ
+60−40=20 km/h
+
+If distance between them = 40 km
+
+Time to catch:
+
+40
+20
+=
+2
+ 
+ℎ
+𝑜
+𝑢
+𝑟
+𝑠
+20
+40
+	​
+
+=2 hours
+🔹 C. MEETING PROBLEMS
+
+Two objects moving toward each other.
+
+Example 4
+
+Distance = 300 km
+
+Speed A = 60 km/h
+Speed B = 40 km/h
+
+Relative speed:
+
+60
++
+40
+=
+100
+60+40=100
+
+Time to meet:
+
+300
+100
+=
+3
+ 
+ℎ
+𝑜
+𝑢
+𝑟
+𝑠
+100
+300
+	​
+
+=3 hours
