@@ -1,0 +1,168 @@
+1️⃣ TIME, SPEED & DISTANCE – TRAIN PROBLEMS
+
+Train problems are a very common placement question type.
+They mainly test relative speed + length concepts.
+
+🔹 A. IMPORTANT RULE
+
+When a train crosses:
+
+1️⃣ A pole or person
+
+Distance = Length of train
+
+Example 1
+
+Train length = 200 m
+Speed = 20 m/s
+
+Time to cross pole:
+
+200
+20
+=
+10
+ 
+𝑠
+𝑒
+𝑐
+𝑜
+𝑛
+𝑑
+𝑠
+20
+200
+	​
+
+=10 seconds
+🔹 B. TRAIN CROSSING A PLATFORM
+
+Distance = Train length + platform length
+
+Example 2
+
+Train = 150 m
+Platform = 100 m
+
+Total distance:
+
+150
++
+100
+=
+250
+ 
+𝑚
+150+100=250 m
+
+Speed = 25 m/s
+
+Time:
+
+250
+25
+=
+10
+ 
+𝑠
+𝑒
+𝑐
+𝑜
+𝑛
+𝑑
+𝑠
+25
+250
+	​
+
+=10 seconds
+🔹 C. TWO TRAINS CROSSING EACH OTHER
+
+Distance = Sum of train lengths
+
+Speed = Relative speed
+
+Example 3
+
+Train A = 120 m
+Train B = 180 m
+
+Total distance:
+
+120
++
+180
+=
+300
+ 
+𝑚
+120+180=300 m
+
+Speed A = 20 m/s
+Speed B = 30 m/s
+
+Relative speed:
+
+20
++
+30
+=
+50
+ 
+𝑚
+/
+𝑠
+20+30=50 m/s
+
+Time:
+
+300
+50
+=
+6
+ 
+𝑠
+𝑒
+𝑐
+𝑜
+𝑛
+𝑑
+𝑠
+50
+300
+	​
+
+=6 seconds
+🔹 D. SAME DIRECTION TRAINS
+
+Relative speed = difference of speeds
+
+Example 4
+
+Train A = 60 km/h
+Train B = 40 km/h
+
+Relative speed:
+
+60
+−
+40
+=
+20
+ 
+𝑘
+𝑚
+/
+ℎ
+60−40=20 km/h
+📝 PRACTICE QUESTIONS
+
+A train 180 m long crosses a pole at 20 m/s. Find time.
+
+A train 150 m long crosses a 100 m platform at 25 m/s. Find time.
+
+Two trains 120 m and 80 m cross each other at 40 m/s combined speed. Find time.
+
+A train 200 m long moves at 25 m/s. Time to cross pole?
+
+Two trains move at 70 km/h and 50 km/h opposite directions. Find relative speed.
