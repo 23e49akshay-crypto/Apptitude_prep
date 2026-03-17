@@ -1,0 +1,229 @@
+1️⃣ TIME, SPEED & DISTANCE – BOATS & STREAMS
+
+This topic is a very common extension of relative speed.
+
+🔹 A. BASIC CONCEPT
+
+When a boat moves in water:
+
+Downstream (with current) → speed increases
+
+Upstream (against current) → speed decreases
+
+🔹 FORMULAS (VERY IMPORTANT)
+
+Let:
+
+Speed of boat in still water = B
+
+Speed of stream = S
+
+Then:
+
+𝐷
+𝑜
+𝑤
+𝑛
+𝑠
+𝑡
+𝑟
+𝑒
+𝑎
+𝑚
+=
+𝐵
++
+𝑆
+Downstream=B+S
+𝑈
+𝑝
+𝑠
+𝑡
+𝑟
+𝑒
+𝑎
+𝑚
+=
+𝐵
+−
+𝑆
+Upstream=B−S
+🔹 Example 1
+
+Boat speed = 10 km/h
+Stream speed = 2 km/h
+
+Downstream:
+
+10
++
+2
+=
+12
+ 
+𝑘
+𝑚
+/
+ℎ
+10+2=12 km/h
+
+Upstream:
+
+10
+−
+2
+=
+8
+ 
+𝑘
+𝑚
+/
+ℎ
+10−2=8 km/h
+🔹 B. FINDING BOAT & STREAM SPEED
+𝐵
+=
+𝐷
+𝑜
+𝑤
+𝑛
+𝑠
+𝑡
+𝑟
+𝑒
+𝑎
+𝑚
++
+𝑈
+𝑝
+𝑠
+𝑡
+𝑟
+𝑒
+𝑎
+𝑚
+2
+B=
+2
+Downstream+Upstream
+	​
+
+𝑆
+=
+𝐷
+𝑜
+𝑤
+𝑛
+𝑠
+𝑡
+𝑟
+𝑒
+𝑎
+𝑚
+−
+𝑈
+𝑝
+𝑠
+𝑡
+𝑟
+𝑒
+𝑎
+𝑚
+2
+S=
+2
+Downstream−Upstream
+	​
+
+🔹 Example 2
+
+Downstream = 14 km/h
+Upstream = 10 km/h
+
+Boat speed:
+
+14
++
+10
+2
+=
+12
+2
+14+10
+	​
+
+=12
+
+Stream speed:
+
+14
+−
+10
+2
+=
+2
+2
+14−10
+	​
+
+=2
+🔹 C. TIME CALCULATION
+
+Same formula:
+
+𝑇
+𝑖
+𝑚
+𝑒
+=
+𝐷
+𝑖
+𝑠
+𝑡
+𝑎
+𝑛
+𝑐
+𝑒
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+Time=
+Speed
+Distance
+	​
+
+🔹 Example 3
+
+Distance = 24 km
+Downstream speed = 12 km/h
+
+Time:
+
+24
+12
+=
+2
+ 
+ℎ
+𝑜
+𝑢
+𝑟
+𝑠
+12
+24
+	​
+
+=2 hours
+📝 PRACTICE QUESTIONS
+
+Boat speed = 12 km/h, stream = 3 km/h. Find downstream speed.
+
+Downstream = 18 km/h, upstream = 10 km/h. Find boat speed.
+
+Find stream speed if downstream = 20 km/h, upstream = 12 km/h.
+
+A boat travels 36 km downstream at 12 km/h. Find time.
+
+Boat speed = 15 km/h, stream = 5 km/h. Find upstream speed.
