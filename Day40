@@ -1,0 +1,118 @@
+1️⃣ COMPOUND INTEREST (CI) – BASICS
+
+Compound Interest is slightly more advanced than SI, but still high-scoring.
+
+🔹 A. BASIC IDEA
+
+👉 In CI, interest is added to principal every year
+👉 Next year interest is calculated on new amount
+
+🔹 B. FORMULA
+𝐴
+𝑚
+𝑜
+𝑢
+𝑛
+𝑡
+=
+𝑃
+(
+1
++
+𝑅
+100
+)
+𝑇
+Amount=P(1+
+100
+R
+	​
+
+)
+T
+𝐶
+𝐼
+=
+𝐴
+𝑚
+𝑜
+𝑢
+𝑛
+𝑡
+−
+𝑃
+CI=Amount−P
+🔹 Example 1
+
+P = ₹1000
+R = 10%
+T = 2 years
+
+𝐴
+𝑚
+𝑜
+𝑢
+𝑛
+𝑡
+=
+1000
+(
+1.1
+)
+2
+Amount=1000(1.1)
+2
+=
+1000
+×
+1.21
+=
+1210
+=1000×1.21=1210
+
+CI:
+
+1210
+−
+1000
+=
+210
+1210−1000=210
+🔹 C. YEAR-WISE METHOD (IMPORTANT)
+🔹 Example 2
+
+P = 1000
+R = 10%
+T = 2 years
+
+Year 1:
+Interest = 100
+New amount = 1100
+
+Year 2:
+Interest = 110
+Final amount = 1210
+
+CI = 210
+
+🔹 D. DIFFERENCE BETWEEN SI & CI
+SI	CI
+Interest constant	Interest increases
+Formula simple	Exponential growth
+🔹 Example 3 (Difference)
+
+Find difference between SI and CI for:
+
+P = 1000, R = 10%, T = 2
+
+SI = 200
+CI = 210
+
+Difference = 10
+
+📝 PRACTICE QUESTIONS
+P = 2000, R = 5%, T = 2. Find CI.
+Find amount for P = 1500, R = 10%, T = 2.
+Find difference between SI & CI for P = 1000, R = 10%, T = 2.
+P = 500, R = 20%, T = 2. Find CI.
+P = 800, R = 5%, T = 3. Find amount.
