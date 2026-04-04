@@ -1,0 +1,201 @@
+1️⃣ AVERAGES – ADVANCED (WEIGHTED & APPLICATION)
+
+Averages is a very important and scoring topic 🔥
+Frequently used in:
+
+Data Interpretation
+Mixtures
+Group problems
+🔹 A. BASIC IDEA REVISION
+𝐴
+𝑣
+𝑒
+𝑟
+𝑎
+𝑔
+𝑒
+=
+𝑇
+𝑜
+𝑡
+𝑎
+𝑙
+ 
+𝑆
+𝑢
+𝑚
+𝑁
+𝑢
+𝑚
+𝑏
+𝑒
+𝑟
+ 
+𝑜
+𝑓
+ 
+𝑉
+𝑎
+𝑙
+𝑢
+𝑒
+𝑠
+Average=
+Number of Values
+Total Sum
+	​
+
+🔹 B. WEIGHTED AVERAGE (VERY IMPORTANT)
+
+When groups have different sizes, use:
+
+𝐴
+𝑣
+𝑒
+𝑟
+𝑎
+𝑔
+𝑒
+=
+(
+𝑛
+1
+×
+𝑎
+1
+)
++
+(
+𝑛
+2
+×
+𝑎
+2
+)
+𝑛
+1
++
+𝑛
+2
+Average=
+n
+1
+	​
+
++n
+2
+	​
+
+(n
+1
+	​
+
+×a
+1
+	​
+
+)+(n
+2
+	​
+
+×a
+2
+	​
+
+)
+	​
+
+🔹 Example 1
+
+Class A: 10 students, avg = 50
+Class B: 20 students, avg = 60
+
+𝑇
+𝑜
+𝑡
+𝑎
+𝑙
+=
+10
+×
+50
++
+20
+×
+60
+=
+500
++
+1200
+=
+1700
+Total=10×50+20×60=500+1200=1700
+
+Total students = 30
+
+𝐴
+𝑣
+𝑒
+𝑟
+𝑎
+𝑔
+𝑒
+=
+1700
+30
+=
+56.67
+Average=
+30
+1700
+	​
+
+=56.67
+🔹 C. WHEN VALUE IS ADDED/REMOVED
+🔹 Example 2 (Added Case)
+
+Average of 5 numbers = 20
+Add one number → new avg = 22
+
+Old total = 5 × 20 = 100
+New total = 6 × 22 = 132
+
+New number:
+
+132
+−
+100
+=
+32
+132−100=32
+🔹 Example 3 (Removed Case)
+
+Average of 6 numbers = 30
+Remove one number → new avg = 28
+
+Old total = 180
+New total = 5 × 28 = 140
+
+Removed number:
+
+180
+−
+140
+=
+40
+180−140=40
+🔹 D. IMPORTANT TRICK
+
+👉 If average increases → added value is higher than avg
+👉 If average decreases → removed value is higher than avg
+
+🔹 Example 4
+
+Average increases → new value > old average ✔️
+
+📝 PRACTICE QUESTIONS
+Avg of 8 numbers = 25. Find total sum.
+Avg of 4 numbers = 10, add one number → avg = 12. Find number.
+Avg of 6 numbers = 20, remove one → avg = 18. Find removed number.
+Group A: 5 students avg 40, Group B: 5 students avg 60. Find overall avg.
+Avg increases from 30 to 35 after adding one number. What can you say about that number?
