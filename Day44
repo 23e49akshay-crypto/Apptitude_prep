@@ -1,0 +1,99 @@
+1️⃣ LOGICAL REASONING – CODING & DECODING (BASICS)
+
+This topic tests:
+
+Pattern recognition
+Logical thinking
+Alphabet handling
+🔹 A. TYPES OF CODING
+
+1️⃣ Letter Coding
+2️⃣ Number Coding
+3️⃣ Mixed Coding
+4️⃣ Pattern Coding
+
+🔹 B. LETTER POSITION (VERY IMPORTANT)
+Letter	Position
+A	1
+B	2
+C	3
+...	...
+Z	26
+🔹 Example 1 (Simple Shift)
+
+If:
+
+CAT → DBU
+
+Pattern:
+C → D (+1)
+A → B (+1)
+T → U (+1)
+
+🔹 Example 2
+
+DOG → GRJ
+
+D → G (+3)
+O → R (+3)
+G → J (+3)
+
+🔹 C. REVERSE CODING
+
+Sometimes alphabet is reversed:
+
+A ↔ Z
+B ↔ Y
+C ↔ X
+
+🔹 Example 3
+
+C → X
+D → W
+
+🔹 D. POSITION BASED CODING
+🔹 Example 4
+
+If:
+
+A = 1, B = 2, C = 3
+
+CAT:
+
+C = 3
+A = 1
+T = 20
+
+Code = 3-1-20
+
+🔹 E. MIXED PATTERN
+🔹 Example 5
+
+If:
+
+BAT → 23
+(2+1+20)
+
+DOG → ?
+
+D = 4
+O = 15
+G = 7
+
+4
++
+15
++
+7
+=
+26
+4+15+7=26
+
+Answer = 26
+
+📝 PRACTICE QUESTIONS
+If CAT → DBU, then DOG → ?
+If A = 1, B = 2… find code of “BAT”
+If DOG → GRJ, then CAT → ?
+If ABC → 6, DEF → ?
+If A ↔ Z, B ↔ Y, find code of “ABC”
