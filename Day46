@@ -1,0 +1,107 @@
+1️⃣ LOGICAL REASONING – DIRECTION SENSE
+
+This topic tests:
+
+Spatial thinking
+Attention to direction
+Logical movement tracking
+🔹 A. BASIC DIRECTIONS (VERY IMPORTANT)
+        North (↑)
+West (←)     East (→)
+        South (↓)
+🔹 B. TURN RULES
+Facing North:
+Right → East
+Left → West
+Facing South:
+Right → West
+Left → East
+Facing East:
+Right → South
+Left → North
+Facing West:
+Right → North
+Left → South
+🔹 Example 1
+
+A person walks 10m North, then turns right and walks 5m.
+
+👉 Final direction?
+
+Facing North → right = East
+
+Answer: East
+
+🔹 Example 2
+
+Walk 5m East → turn left → walk 3m
+
+Facing East → left = North
+
+Answer: North
+
+🔹 C. DISTANCE (IMPORTANT)
+
+Use Pythagoras for shortest distance:
+
+𝐷
+𝑖
+𝑠
+𝑡
+𝑎
+𝑛
+𝑐
+𝑒
+=
+𝑥
+2
++
+𝑦
+2
+Distance=
+x
+2
++y
+2
+	​
+
+🔹 Example 3
+
+Walk 3m East, then 4m North
+
+3
+2
++
+4
+2
+=
+5
+𝑚
+3
+2
++4
+2
+	​
+
+=5m
+🔹 D. FINAL POSITION TYPE
+🔹 Example 4
+
+Walk:
+
+10m North
+10m East
+10m South
+
+Final direction?
+
+North & South cancel → East
+
+Answer: East of starting point
+
+📝 PRACTICE QUESTIONS
+Walk 5m North, then right 5m. Final direction?
+Walk 10m South, then left 5m. Final direction?
+Walk 6m East, 8m North. Find shortest distance.
+Walk North → East → South. Final direction?
+Facing West, turn right. Direction?
