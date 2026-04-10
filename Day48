@@ -1,0 +1,70 @@
+1️⃣ LOGICAL REASONING – PUZZLES (SEATING ARRANGEMENT BASICS)
+
+This is one of the most important and high-weightage topics in placements 🔥
+
+🔹 A. TYPES OF SEATING ARRANGEMENT
+
+1️⃣ Linear (in a row)
+2️⃣ Circular (around table)
+3️⃣ Facing same direction / opposite direction
+
+🔹 B. BASIC RULES
+
+👉 Always:
+
+Draw diagram
+Place fixed positions first
+Follow clues step by step
+🔹 C. LINEAR ARRANGEMENT (BASIC)
+🔹 Example 1
+
+5 people: A, B, C, D, E
+
+Conditions:
+
+A is at left end
+B is right of A
+C is at right end
+
+Arrange:
+
+A → B → _ → _ → C
+
+Remaining: D, E fill middle
+
+🔹 D. CIRCULAR ARRANGEMENT
+
+👉 Formula idea: positions matter relative to each other
+
+🔹 Example 2
+
+4 people sit around a table
+
+Fix one person (to avoid rotation confusion)
+
+Then arrange others clockwise
+
+🔹 E. FACING DIRECTION (IMPORTANT)
+
+👉 If facing North → left is your left
+👉 If facing South → left becomes right
+
+🔹 Example 3
+
+A sits facing North
+B is to the right of A
+
+👉 B is on A’s right side (East)
+
+🔹 F. COMMON TRICKS
+
+1️⃣ Fix one person in circular puzzles
+2️⃣ Use symbols instead of names
+3️⃣ Solve step-by-step (don’t jump)
+
+📝 PRACTICE QUESTIONS
+4 people sit in a row. A is left of B, C is right of B. Who is in middle?
+A sits at one end, B next to A. Who can be at other end?
+In a circle, A sits next to B. Where can C sit?
+A faces North, B is to his right. What is B’s direction?
+5 people sit in row, C is in middle. How many positions possible for others?
