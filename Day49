@@ -1,0 +1,79 @@
+1️⃣ LOGICAL REASONING – PUZZLES (ADVANCED + SHORTCUTS)
+
+This is top-level placement difficulty
+(Asked in TCS, Infosys, Accenture, etc.)
+
+🔹 A. COMMON ADVANCED TYPES
+
+1️⃣ Linear + Conditions
+2️⃣ Circular + Facing direction
+3️⃣ Multiple variables (name + profession + place)
+4️⃣ Ranking puzzles
+
+🔹 B. KEY STRATEGY (VERY IMPORTANT)
+
+👉 Always follow:
+
+Read all conditions once
+Find direct placements
+Fix positions
+Fill remaining logically
+🔹 C. EXAMPLE (ADVANCED)
+
+5 people: A, B, C, D, E
+
+Conditions:
+
+A is left of B
+C is right of B
+D is not at ends
+E is at one end
+Step 1: Fix E at one end
+
+E _ _ _ _
+
+Step 2: D not at ends
+
+E _ D _ _
+
+Step 3: A left of B, C right of B
+
+Try placements:
+
+Final possible arrangement:
+
+E A B C D
+
+🔹 D. IMPORTANT SHORTCUTS
+
+1️⃣ Fix extreme positions first
+2️⃣ Use elimination method
+3️⃣ Convert words → symbols
+4️⃣ Avoid rewriting full names
+
+🔹 E. RANKING TYPE
+Example
+
+A is taller than B
+B taller than C
+
+👉 Order:
+
+A > B > C
+
+🔹 F. MULTI-VARIABLE PUZZLES
+
+Example:
+
+A is doctor
+B is engineer
+C is teacher
+
+👉 Solve one variable at a time
+
+📝 PRACTICE QUESTIONS
+5 people sit in row, A left of B, C right of B. Who is in middle?
+A > B > C > D. Who is smallest?
+In circle, A sits opposite B. How many people minimum?
+A not at ends, B at left end. Where can C sit?
+4 people with jobs (doctor, teacher, engineer, lawyer). Match logically.
