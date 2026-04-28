@@ -1,0 +1,102 @@
+📅 Today’s Learning – 18 March 2026
+
+Placement Training – Technical Interview Questions (Software + AI Roles)
+
+🎤 1️⃣ COMMON TECHNICAL QUESTIONS (Freshers)
+
+Interviewers often start simple.
+
+❓ What is OOP?
+
+Four pillars:
+
+Encapsulation
+Abstraction
+Inheritance
+Polymorphism
+Strong Simple Answer
+Writing
+
+Object-Oriented Programming is a programming approach where code is organized around objects and classes. It improves modularity, reusability, and maintainability.
+
+❓ Difference between Stack and Queue?
+
+Stack:
+LIFO (Last In First Out)
+
+Queue:
+FIFO (First In First Out)
+
+Classic question.
+
+❓ What is DBMS?
+
+A system used to store, manage, and retrieve data efficiently.
+
+Examples:
+
+MySQL
+PostgreSQL
+2️⃣ AI/ML INTERVIEW QUESTIONS
+❓ Difference between AI and ML?
+
+AI → broader concept of intelligent systems
+ML → subset of AI that learns from data
+
+❓ What is Overfitting?
+
+Model performs well on training data
+Poorly on unseen data
+
+Very common.
+
+❓ What is Supervised Learning?
+
+Learning using labeled data.
+
+Example:
+Spam classification.
+
+3️⃣ INTERVIEWER MAY ASK SITUATIONAL TECHNICAL QUESTIONS
+
+Example:
+
+“If your code has a bug and deadline is near, what will you do?”
+
+Good structure:
+
+Debug systematically
+Prioritize critical issue
+Communicate if needed
+4️⃣ MINI MOCK (Answer Yourself)
+
+Try answering:
+
+What is polymorphism?
+Difference between SQL and DBMS?
+What is overfitting?
+Explain one project.
+
+(We can review later.)
+
+5️⃣ COMMUNICATION PRACTICE (≈180 words)
+
+Read aloud:
+
+“Technical interviews often focus on conceptual clarity more than complex answers, especially for freshers. Interviewers usually begin with fundamental questions to understand how clearly a candidate thinks and explains concepts. Simple, accurate, and structured answers often perform better than overly complicated responses. Confidence and clarity are key.”
+
+🎯 PLACEMENT INSIGHT
+
+Freshers often fail because they:
+❌ Overcomplicate answers
+❌ Panic on basics
+❌ Cannot explain projects clearly
+
+Keep answers simple and structured.
+
+✅ TODAY’S HOMEWORK
+Prepare answers for:
+OOP
+DBMS
+AI vs ML
+Practice explaining one project in 60 seconds
