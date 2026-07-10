@@ -1,0 +1,497 @@
+4️⃣ NUMBER SYSTEM – LOGARITHMS (Basics – Placement Level)
+
+🔹 What are Logarithms?
+
+A logarithm tells us the exponent (power) to which a base must be raised to get a given number.
+
+In simple words:
+
+If
+
+aˣ = N
+
+Then
+
+logₐ(N) = x
+
+👉 A logarithm is simply the reverse (inverse) of exponents.
+
+Logarithm questions test:
+
+Basic mathematical reasoning
+
+Exponent concepts
+
+Formula application
+
+Speed and accuracy
+
+
+These are commonly asked in placement aptitude tests and competitive exams.
+
+
+---
+
+🔹 Understanding Logarithms
+
+Example 1
+
+2³ = 8
+
+Therefore,
+
+log₂(8) = 3
+
+Because 2 raised to the power 3 equals 8.
+
+
+---
+
+Example 2
+
+10² = 100
+
+Therefore,
+
+log₁₀(100) = 2
+
+
+---
+
+Example 3
+
+5⁴ = 625
+
+Therefore,
+
+log₅(625) = 4
+
+
+---
+
+🔹 Parts of a Logarithm
+
+Example:
+
+log₂(32)
+
+Base = 2
+
+Argument (Number) = 32
+
+Value = 5
+
+
+Because
+
+2⁵ = 32
+
+
+---
+
+🔹 Types of Logarithms
+
+1. Common Logarithm
+
+Base = 10
+
+Written as:
+
+log(100)
+
+It means:
+
+log₁₀(100)
+
+Example:
+
+log(1000) = 3
+
+
+---
+
+2. Natural Logarithm
+
+Base = e (≈ 2.718)
+
+Written as:
+
+ln(x)
+
+⚠️ Mostly used in higher mathematics. In placement aptitude, common logarithms are more frequently tested.
+
+
+---
+
+🔹 Basic Logarithm Values (Must Remember)
+
+Expression	Value
+
+log₂(2)	1
+log₂(4)	2
+log₂(8)	3
+log₂(16)	4
+log₃(9)	2
+log₃(27)	3
+log₅(25)	2
+log₅(125)	3
+log₁₀(10)	1
+log₁₀(100)	2
+log₁₀(1000)	3
+logₐ(1)	0
+logₐ(a)	1
+
+
+⚠️ Memorizing these values helps solve many questions quickly.
+
+
+---
+
+🔹 Important Properties (Basics)
+
+1. Log of 1
+
+logₐ(1) = 0
+
+Because
+
+a⁰ = 1
+
+Example:
+
+log₇(1) = 0
+
+
+---
+
+2. Log of Base
+
+logₐ(a) = 1
+
+Example:
+
+log₅(5) = 1
+
+
+---
+
+3. Log of a Power
+
+logₐ(aⁿ) = n
+
+Example:
+
+log₂(2⁶)
+
+= 6
+
+
+---
+
+🔹 Example 1
+
+Find:
+
+log₂(64)
+
+Since
+
+64 = 2⁶
+
+Therefore,
+
+log₂(64)
+
+= 6
+
+✅ Answer = 6
+
+
+---
+
+🔹 Example 2
+
+Find:
+
+log₃(81)
+
+Since
+
+81 = 3⁴
+
+Therefore,
+
+log₃(81)
+
+= 4
+
+✅ Answer = 4
+
+
+---
+
+🔹 Example 3
+
+Find:
+
+log₁₀(10000)
+
+Since
+
+10000 = 10⁴
+
+Therefore,
+
+log₁₀(10000)
+
+= 4
+
+✅ Answer = 4
+
+
+---
+
+🔹 Example 4
+
+Find:
+
+log₅(125)
+
+Since
+
+125 = 5³
+
+Therefore,
+
+log₅(125)
+
+= 3
+
+✅ Answer = 3
+
+
+---
+
+🔹 Example 5
+
+Find:
+
+log₄(64)
+
+Since
+
+4 = 2²
+
+64 = 2⁶
+
+Therefore,
+
+log₄(64)
+
+= 6 ÷ 2
+
+= 3
+
+✅ Answer = 3
+
+
+---
+
+🔹 Important Tricks (Placement Shortcuts)
+
+Trick 1
+
+Convert the given number into the power of the base.
+
+Example:
+
+32 = 2⁵
+
+125 = 5³
+
+81 = 3⁴
+
+625 = 5⁴
+
+
+---
+
+Trick 2
+
+Remember these identities:
+
+logₐ(1) = 0
+
+logₐ(a) = 1
+
+logₐ(aⁿ) = n
+
+
+These are frequently asked directly in aptitude tests.
+
+
+---
+
+Trick 3
+
+If both the base and the number can be expressed using the same prime base, simplify first.
+
+Example:
+
+log₈(64)
+
+8 = 2³
+
+64 = 2⁶
+
+Therefore,
+
+log₈(64)
+
+= 6 ÷ 3
+
+= 2
+
+
+---
+
+Trick 4
+
+Memorize common powers:
+
+2⁵ = 32
+
+2⁶ = 64
+
+2⁷ = 128
+
+3³ = 27
+
+3⁴ = 81
+
+5³ = 125
+
+5⁴ = 625
+
+10² = 100
+
+10³ = 1000
+
+
+This saves time in placement exams.
+
+
+---
+
+⚠️ Conditions for Logarithms
+
+For logₐ(b) to exist:
+
+Base a > 0
+
+Base a ≠ 1
+
+Argument b > 0
+
+
+Examples:
+
+❌ log₂(−8) → Not defined
+
+❌ log₁(10) → Not defined
+
+✅ log₂(1) = 0
+
+
+---
+
+⚠️ Common Mistakes
+
+Do not confuse the base with the answer.
+
+Always rewrite the number as a power of the base whenever possible.
+
+Remember that logₐ(1) = 0, not 1.
+
+A logarithm is not defined for zero or negative numbers.
+
+
+
+---
+
+📝 PRACTICE (Very Important)
+
+1. Find:
+
+log₂(128)
+
+
+
+2. Evaluate:
+
+log₃(243)
+
+
+
+3. Find:
+
+log₅(625)
+
+
+
+4. Evaluate:
+
+log₁₀(100000)
+
+
+
+5. Find:
+
+log₄(16)
+
+
+
+6. Evaluate:
+
+log₈(512)
+
+
+
+7. If log₂(x) = 7, find x.
+
+
+8. If log₅(x) = 4, find x.
+
+
+9. State whether the following are defined or not:
+
+log₃(−9)
+
+log₁(25)
+
+log₇(1)
+
+
+
+10. Find:
+
+
+
+log₉(81)
+
+
+
+---
+
+💡 Placement Tip
+
+In placement aptitude tests, basic logarithm questions usually require converting a number into a power of the base. Focus on understanding the relationship aˣ = N ⇔ logₐ(N) = x, memorize common powers of 2, 3, 5, and 10, and remember the three key identities:
+
+logₐ(1) = 0
+
+logₐ(a) = 1
+
+logₐ(aⁿ) = n
+
+
+Mastering these basics makes it much easier to learn advanced logarithm concepts such as logarithm laws and the change of base formula later.
