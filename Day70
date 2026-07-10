@@ -1,0 +1,536 @@
+5️⃣ NUMBER SYSTEM – SURDS & INDICES (Foundation – Placement Level)
+
+🔹 What are Indices (Exponents)?
+
+Indices (also called Exponents or Powers) tell us how many times a number is multiplied by itself.
+
+Example
+
+2³ = 2 × 2 × 2 = 8
+
+Here:
+
+2 = Base
+
+3 = Index (Exponent/Power)
+
+
+Indices are widely used in mathematics, logarithms, algebra, and aptitude problems.
+
+These questions test:
+
+Calculation ability
+
+Formula application
+
+Logical thinking
+
+Speed and accuracy
+
+
+They are commonly asked in placement aptitude tests.
+
+
+---
+
+🔹 What are Surds?
+
+A Surd is an irrational number written in root (√) form that cannot be simplified into a whole number or a rational number.
+
+Examples of Surds
+
+√2
+
+√3
+
+√5
+
+√7
+
+
+These cannot be simplified further.
+
+
+---
+
+Examples that are NOT Surds
+
+√4 = 2
+
+√9 = 3
+
+√16 = 4
+
+√25 = 5
+
+
+Since these simplify to whole numbers, they are not surds.
+
+
+---
+
+🔹 Types of Indices
+
+1. Positive Index
+
+Example:
+
+4²
+
+= 4 × 4
+
+= 16
+
+
+---
+
+2. Zero Index
+
+Rule:
+
+a⁰ = 1
+
+Example:
+
+8⁰
+
+= 1
+
+⚠️ Applicable only when a ≠ 0.
+
+
+---
+
+3. Negative Index
+
+Rule:
+
+a⁻ⁿ = 1/aⁿ
+
+Example:
+
+2⁻²
+
+= 1/2²
+
+= 1/4
+
+
+---
+
+4. Fractional Index
+
+Rule:
+
+a¹⁄² = √a
+
+Example:
+
+25¹⁄²
+
+= √25
+
+= 5
+
+Another example:
+
+27¹⁄³
+
+= ∛27
+
+= 3
+
+
+---
+
+🔹 Basic Laws of Indices (Must Remember)
+
+Law 1
+
+aᵐ × aⁿ = aᵐ⁺ⁿ
+
+Example
+
+2³ × 2²
+
+= 2⁵
+
+= 32
+
+
+---
+
+Law 2
+
+aᵐ ÷ aⁿ = aᵐ⁻ⁿ
+
+Example
+
+5⁵ ÷ 5²
+
+= 5³
+
+= 125
+
+
+---
+
+Law 3
+
+(aᵐ)ⁿ = aᵐⁿ
+
+Example
+
+(3²)³
+
+= 3⁶
+
+= 729
+
+
+---
+
+🔹 Simplifying Surds
+
+Take out the largest perfect square from inside the root.
+
+Example 1
+
+√50
+
+= √(25 × 2)
+
+= 5√2
+
+✅ Answer = 5√2
+
+
+---
+
+Example 2
+
+√72
+
+= √(36 × 2)
+
+= 6√2
+
+✅ Answer = 6√2
+
+
+---
+
+Example 3
+
+√45
+
+= √(9 × 5)
+
+= 3√5
+
+✅ Answer = 3√5
+
+
+---
+
+🔹 Addition of Surds
+
+Only like surds can be added.
+
+Example
+
+2√3 + 4√3
+
+= 6√3
+
+✅ Answer = 6√3
+
+
+---
+
+Example
+
+5√7 − 2√7
+
+= 3√7
+
+✅ Answer = 3√7
+
+
+---
+
+⚠️ Unlike surds cannot be added.
+
+Example:
+
+√2 + √5
+
+❌ Cannot be simplified further.
+
+
+---
+
+🔹 Multiplication of Surds
+
+Example
+
+√5 × √20
+
+= √100
+
+= 10
+
+✅ Answer = 10
+
+
+---
+
+Example
+
+2√3 × 4√3
+
+= 8 × 3
+
+= 24
+
+✅ Answer = 24
+
+
+---
+
+🔹 Example 1
+
+Simplify:
+
+2⁴
+
+= 16
+
+✅ Answer = 16
+
+
+---
+
+🔹 Example 2
+
+Simplify:
+
+3⁻²
+
+= 1/3²
+
+= 1/9
+
+✅ Answer = 1/9
+
+
+---
+
+🔹 Example 3
+
+Simplify:
+
+49¹⁄²
+
+= √49
+
+= 7
+
+✅ Answer = 7
+
+
+---
+
+🔹 Example 4
+
+Simplify:
+
+√98
+
+= √(49 × 2)
+
+= 7√2
+
+✅ Answer = 7√2
+
+
+---
+
+🔹 Example 5
+
+Simplify:
+
+2³ × 2²
+
+= 2⁵
+
+= 32
+
+✅ Answer = 32
+
+
+---
+
+🔹 Important Tricks (Placement Shortcuts)
+
+Trick 1
+
+Memorize perfect squares.
+
+Number	Square
+
+1	1
+2	4
+3	9
+4	16
+5	25
+6	36
+7	49
+8	64
+9	81
+10	100
+11	121
+12	144
+13	169
+14	196
+15	225
+
+
+This helps simplify surds quickly.
+
+
+---
+
+Trick 2
+
+Remember these index rules:
+
+a⁰ = 1
+
+a⁻¹ = 1/a
+
+a¹⁄² = √a
+
+a¹⁄³ = ∛a
+
+
+
+---
+
+Trick 3
+
+When simplifying surds, always look for the largest perfect square inside the number.
+
+Example:
+
+√108
+
+= √(36 × 3)
+
+= 6√3
+
+
+---
+
+Trick 4
+
+For multiplication:
+
+√a × √b = √ab
+
+Example:
+
+√4 × √9
+
+= √36
+
+= 6
+
+
+---
+
+⚠️ Common Mistakes
+
+Do not add unlike surds.
+
+Remember that a⁰ = 1, not 0.
+
+A negative exponent means take the reciprocal.
+
+Simplify surds completely by taking out the largest perfect square.
+
+Do not confuse √a + √b with √(a + b).
+
+
+
+---
+
+📝 PRACTICE (Very Important)
+
+1. Simplify:
+
+5³
+
+
+
+2. Evaluate:
+
+10⁰
+
+
+
+3. Simplify:
+
+4⁻²
+
+
+
+4. Evaluate:
+
+64¹⁄²
+
+
+
+5. Simplify:
+
+√75
+
+
+
+6. Simplify:
+
+√147
+
+
+
+7. Find:
+
+3√5 + 2√5
+
+
+
+8. Simplify:
+
+√8 × √2
+
+
+
+9. Simplify:
+
+2⁵ ÷ 2²
+
+
+
+10. Evaluate:
+
+
+
+81¹⁄²
+
+
+
+---
+
+💡 Placement Tip
+
+In placement aptitude tests, foundation-level Surds & Indices questions mainly involve basic exponent rules, square roots, fractional exponents, and simple surd simplification. Memorize the laws of indices and the perfect squares from 1² to 30². Also remember that only like surds can be added or subtracted. Once you master these basics, advanced topics like rationalisation and higher index laws become much easier.
