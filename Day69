@@ -1,0 +1,552 @@
+5️⃣ NUMBER SYSTEM – SURDS & INDICES (Advanced + Rationalisation) (Placement Level)
+
+🔹 What are Indices (Exponents)?
+
+Indices (or Exponents) tell us how many times a number is multiplied by itself.
+
+Example:
+
+2³ = 2 × 2 × 2 = 8
+
+Here,
+
+2 = Base
+
+3 = Index (Exponent/Power)
+
+
+Indices are used in algebra, logarithms, surds, and aptitude calculations.
+
+
+---
+
+🔹 What are Surds?
+
+A Surd is an irrational number written in root (√) form that cannot be simplified into an integer or a rational number.
+
+Examples:
+
+√2
+
+√3
+
+√5
+
+√7
+
+∛2
+
+
+These cannot be written as exact fractions.
+
+Examples that are NOT Surds
+
+√4 = 2
+
+√25 = 5
+
+√81 = 9
+
+
+Since they simplify to whole numbers, they are not surds.
+
+
+---
+
+🔹 Types of Indices
+
+1. Positive Index
+
+Example:
+
+3² = 9
+
+
+---
+
+2. Zero Index
+
+Rule:
+
+a⁰ = 1
+
+Example:
+
+15⁰ = 1
+
+⚠️ Applicable only when a ≠ 0.
+
+
+---
+
+3. Negative Index
+
+Rule:
+
+a⁻ⁿ = 1/aⁿ
+
+Example:
+
+2⁻³
+
+= 1/2³
+
+= 1/8
+
+
+---
+
+4. Fractional Index
+
+Rule:
+
+a¹⁄ⁿ = ⁿ√a
+
+Example:
+
+16¹⁄²
+
+= √16
+
+= 4
+
+Another example:
+
+27¹⁄³
+
+= ∛27
+
+= 3
+
+
+---
+
+🔹 Laws of Indices (Must Remember)
+
+Law 1: Product Rule
+
+aᵐ × aⁿ = aᵐ⁺ⁿ
+
+Example:
+
+2³ × 2²
+
+= 2⁵
+
+= 32
+
+
+---
+
+Law 2: Quotient Rule
+
+aᵐ ÷ aⁿ = aᵐ⁻ⁿ
+
+Example:
+
+5⁶ ÷ 5²
+
+= 5⁴
+
+= 625
+
+
+---
+
+Law 3: Power of a Power
+
+(aᵐ)ⁿ = aᵐⁿ
+
+Example:
+
+(2³)²
+
+= 2⁶
+
+= 64
+
+
+---
+
+Law 4: Power of a Product
+
+(ab)ⁿ = aⁿbⁿ
+
+Example:
+
+(2 × 3)²
+
+= 2² × 3²
+
+= 36
+
+
+---
+
+Law 5: Power of a Quotient
+
+(a/b)ⁿ = aⁿ/bⁿ
+
+Example:
+
+(2/5)²
+
+= 4/25
+
+
+---
+
+🔹 Surd Simplification
+
+Take out perfect squares from the root.
+
+Example 1
+
+√72
+
+= √(36 × 2)
+
+= 6√2
+
+✅ Answer = 6√2
+
+
+---
+
+Example 2
+
+√200
+
+= √(100 × 2)
+
+= 10√2
+
+
+---
+
+Example 3
+
+√180
+
+= √(36 × 5)
+
+= 6√5
+
+
+---
+
+🔹 Addition & Subtraction of Surds
+
+Only like surds can be added or subtracted.
+
+Example
+
+3√2 + 5√2
+
+= 8√2
+
+
+---
+
+Example
+
+7√5 − 2√5
+
+= 5√5
+
+
+---
+
+⚠️ Unlike surds cannot be combined.
+
+Example:
+
+√2 + √3
+
+❌ Cannot be simplified further.
+
+
+---
+
+🔹 Multiplication of Surds
+
+Example
+
+√3 × √12
+
+= √36
+
+= 6
+
+
+---
+
+Example
+
+2√5 × 3√5
+
+= 6 × 5
+
+= 30
+
+
+---
+
+🔹 Rationalisation (Most Important)
+
+🔹 What is Rationalisation?
+
+Rationalisation means removing the surd (root) from the denominator of a fraction.
+
+This makes calculations easier and is commonly asked in placement exams.
+
+
+---
+
+🔹 Case 1: Single Surd in Denominator
+
+Rule
+
+Multiply the numerator and denominator by the same surd.
+
+Example 1
+
+1/√2
+
+= (1 × √2)/(√2 × √2)
+
+= √2/2
+
+✅ Answer = √2/2
+
+
+---
+
+Example 2
+
+5/√3
+
+= (5√3)/3
+
+✅ Answer = 5√3/3
+
+
+---
+
+🔹 Case 2: Binomial Denominator (Using Conjugates)
+
+Conjugates
+
+(a + √b) ↔ (a − √b)
+
+(√a + √b) ↔ (√a − √b)
+
+
+Multiply by the conjugate.
+
+
+---
+
+Example 3
+
+1/(2 + √3)
+
+Multiply by (2 − √3)
+
+= (2 − √3)/(4 − 3)
+
+= 2 − √3
+
+✅ Answer = 2 − √3
+
+
+---
+
+Example 4
+
+1/(√5 + √2)
+
+Multiply by (√5 − √2)
+
+= (√5 − √2)/(5 − 2)
+
+= (√5 − √2)/3
+
+✅ Answer = (√5 − √2)/3
+
+
+---
+
+🔹 Example 5 (Using Index Laws)
+
+Simplify:
+
+2³ × 2⁵ ÷ 2⁴
+
+= 2⁸ ÷ 2⁴
+
+= 2⁴
+
+= 16
+
+✅ Answer = 16
+
+
+---
+
+🔹 Important Tricks (Placement Shortcuts)
+
+Trick 1
+
+Memorize perfect squares up to 30².
+
+Examples:
+
+11² = 121
+
+12² = 144
+
+15² = 225
+
+20² = 400
+
+25² = 625
+
+30² = 900
+
+
+This helps simplify surds quickly.
+
+
+---
+
+Trick 2
+
+Remember common roots:
+
+√2 ≈ 1.414
+
+√3 ≈ 1.732
+
+√5 ≈ 2.236
+
+√10 ≈ 3.162
+
+
+Useful for approximation questions.
+
+
+---
+
+Trick 3
+
+For rationalising 1/√a:
+
+Simply multiply by √a/√a.
+
+
+---
+
+Trick 4
+
+For a + √b in the denominator:
+
+Always multiply by a − √b (its conjugate).
+
+
+---
+
+Trick 5
+
+For index questions:
+
+Apply the exponent laws before calculating numerical values. This reduces calculation time and errors.
+
+
+---
+
+⚠️ Common Mistakes
+
+Do not add unlike surds (e.g., √2 + √5).
+
+Remember a⁰ = 1, but 0⁰ is undefined in elementary mathematics.
+
+A negative exponent means take the reciprocal.
+
+Always multiply by the conjugate when rationalising a binomial denominator.
+
+Simplify surds completely by extracting the largest perfect square.
+
+
+
+---
+
+📝 PRACTICE (Very Important)
+
+1. Simplify:
+
+√98
+
+
+
+2. Simplify:
+
+√288
+
+
+
+3. Evaluate:
+
+3√7 + 5√7
+
+
+
+4. Simplify:
+
+√8 × √18
+
+
+
+5. Rationalise:
+
+1/√5
+
+
+
+6. Rationalise:
+
+4/√7
+
+
+
+7. Rationalise:
+
+1/(3 + √2)
+
+
+
+8. Simplify:
+
+2⁵ × 2³ ÷ 2⁴
+
+
+
+9. Evaluate:
+
+81³⁄⁴
+
+
+
+10. Simplify:
+
+
+
+64⁻¹⁄²
+
+
+
+---
+
+💡 Placement Tip
+
+In placement aptitude tests, Surds & Indices questions mainly focus on index laws, simplifying surds, fractional and negative exponents, and rationalisation. Memorize the laws of indices, recognize perfect squares, and practice using conjugates for rationalisation. With these techniques, most placement-level questions can be solved in under one minute.
