@@ -1,0 +1,567 @@
+4️⃣ NUMBER SYSTEM – LOGARITHMS (Advanced + Change of Base) (FOUNDATION – PLACEMENT LEVEL)
+
+🔹 What are Logarithms?
+
+A logarithm tells us the power (exponent) to which a base must be raised to obtain a given number.
+
+In simple words:
+
+If
+
+aˣ = N
+
+then
+
+logₐ(N) = x
+
+👉 A logarithm is simply the reverse (inverse) of exponentiation.
+
+Logarithm questions test:
+
+Mathematical reasoning
+
+Formula application
+
+Simplification skills
+
+Speed and accuracy
+
+
+These are frequently asked in placement aptitude tests and competitive exams.
+
+
+---
+
+🔹 Understanding with Examples
+
+Example
+
+2³ = 8
+
+Therefore,
+
+log₂(8) = 3
+
+Because 2 raised to the power 3 equals 8.
+
+
+---
+
+Another example:
+
+10² = 100
+
+Therefore,
+
+log₁₀(100) = 2
+
+
+---
+
+Another example:
+
+5⁴ = 625
+
+Therefore,
+
+log₅(625) = 4
+
+
+---
+
+🔹 Parts of a Logarithm
+
+Example:
+
+log₂(32)
+
+Base = 2
+
+Number (Argument) = 32
+
+Answer = 5
+
+
+Because
+
+2⁵ = 32
+
+
+---
+
+🔹 Types of Logarithms
+
+1. Common Logarithm
+
+Base = 10
+
+Written as:
+
+log(100)
+
+It means
+
+log₁₀(100)
+
+Example:
+
+log(1000) = 3
+
+
+---
+
+2. Natural Logarithm
+
+Base = e
+
+Written as:
+
+ln(x)
+
+Where
+
+e ≈ 2.718
+
+⚠️ Mostly used in higher mathematics and engineering. Placement aptitude questions usually focus on common logarithms.
+
+
+---
+
+🔹 Basic Logarithm Values (Must Remember)
+
+Expression	Value
+
+log₂(2)	1
+log₂(8)	3
+log₂(16)	4
+log₃(27)	3
+log₅(125)	3
+log₁₀(10)	1
+log₁₀(100)	2
+log₁₀(1000)	3
+logₐ(1)	0
+logₐ(a)	1
+
+
+⚠️ These values should be memorized.
+
+
+---
+
+🔹 Laws of Logarithms (Most Important)
+
+1. Product Rule
+
+logₐ(M × N) = logₐ(M) + logₐ(N)
+
+Example
+
+log₂(8 × 4)
+
+= log₂(8) + log₂(4)
+
+= 3 + 2
+
+= 5
+
+✅ Answer = 5
+
+
+---
+
+2. Quotient Rule
+
+logₐ(M/N) = logₐ(M) − logₐ(N)
+
+Example
+
+log₂(32/4)
+
+= log₂(32) − log₂(4)
+
+= 5 − 2
+
+= 3
+
+
+---
+
+3. Power Rule
+
+logₐ(Mⁿ) = n × logₐ(M)
+
+Example
+
+log₂(8²)
+
+= 2 log₂(8)
+
+= 2 × 3
+
+= 6
+
+
+---
+
+4. Log of 1
+
+logₐ(1) = 0
+
+Because
+
+a⁰ = 1
+
+Example:
+
+log₇(1) = 0
+
+
+---
+
+5. Log of Base
+
+logₐ(a) = 1
+
+Example
+
+log₅(5)
+
+= 1
+
+
+---
+
+🔹 Change of Base Formula (Very Important)
+
+Sometimes the required base is not easy to use.
+
+Then we use the Change of Base Formula.
+
+Formula
+
+logₐ(b) = log(b) / log(a)
+
+OR
+
+logₐ(b) = ln(b) / ln(a)
+
+Both formulas give the same answer.
+
+
+---
+
+🔹 Example 1 (Change of Base)
+
+Find:
+
+log₂(64)
+
+Using change of base,
+
+log₂(64)
+
+= log(64) / log(2)
+
+= 6
+
+✅ Answer = 6
+
+
+---
+
+🔹 Example 2
+
+Find
+
+log₃(81)
+
+Since
+
+81 = 3⁴
+
+Therefore,
+
+log₃(81)
+
+= 4
+
+
+---
+
+🔹 Example 3
+
+Find
+
+log₄(64)
+
+Using powers,
+
+64 = 2⁶
+
+4 = 2²
+
+Therefore,
+
+log₄(64)
+
+= 6/2
+
+= 3
+
+✅ Answer = 3
+
+
+---
+
+🔹 Example 4
+
+Simplify
+
+log₂(8) + log₂(4)
+
+= 3 + 2
+
+= 5
+
+OR
+
+= log₂(32)
+
+Since
+
+8 × 4 = 32
+
+✅ Answer = 5
+
+
+---
+
+🔹 Example 5
+
+Simplify
+
+log₅(625)
+
+625 = 5⁴
+
+Therefore,
+
+log₅(625)
+
+= 4
+
+
+---
+
+🔹 Important Tricks (Placement Shortcuts)
+
+Trick 1
+
+Convert numbers into powers.
+
+Example:
+
+125 = 5³
+
+64 = 2⁶
+
+81 = 3⁴
+
+625 = 5⁴
+
+This makes logarithms much easier to solve.
+
+
+---
+
+Trick 2
+
+Remember these identities:
+
+logₐ(1) = 0
+
+logₐ(a) = 1
+
+logₐ(aⁿ) = n
+
+
+These are asked directly in aptitude tests.
+
+
+---
+
+Trick 3
+
+If the base and number can both be written with the same prime base, simplify first.
+
+Example:
+
+log₈(64)
+
+8 = 2³
+
+64 = 2⁶
+
+Therefore,
+
+log₈(64)
+
+= 6/3
+
+= 2
+
+
+---
+
+Trick 4
+
+Use the Change of Base Formula when the bases are different and cannot be easily rewritten.
+
+Example:
+
+log₇(20)
+
+= log(20) / log(7)
+
+
+---
+
+Trick 5
+
+Remember common powers:
+
+2⁵ = 32
+
+2⁶ = 64
+
+2⁷ = 128
+
+3³ = 27
+
+3⁴ = 81
+
+5³ = 125
+
+5⁴ = 625
+
+10² = 100
+
+10³ = 1000
+
+
+These help solve logarithm questions quickly.
+
+
+---
+
+⚠️ Conditions for Logarithms
+
+For logₐ(b) to exist:
+
+Base a > 0
+
+Base a ≠ 1
+
+Argument b > 0
+
+
+Example:
+
+❌ log₂(−8) → Not defined
+
+❌ log₁(10) → Not defined
+
+
+---
+
+⚠️ Common Mistakes
+
+Do not add logarithms with different bases unless you first convert them to a common base.
+
+Remember:
+
+Product → Addition
+
+Quotient → Subtraction
+
+Power → Multiplication
+
+
+Do not confuse log(a + b) with log(a) + log(b).
+
+❌ log(a + b) ≠ log(a) + log(b)
+
+
+Check that the argument is positive before applying logarithm properties.
+
+
+
+---
+
+📝 PRACTICE (Very Important)
+
+1. Find:
+
+log₂(128)
+
+
+
+2. Evaluate:
+
+log₃(243)
+
+
+
+3. Simplify:
+
+log₁₀(10000)
+
+
+
+4. Simplify:
+
+log₂(16) + log₂(8)
+
+
+
+5. Simplify:
+
+log₅(625) − log₅(25)
+
+
+
+6. Find:
+
+log₈(512)
+
+
+
+7. Use the change of base formula to express:
+
+log₇(50)
+
+
+
+8. If log₂(x) = 6, find x.
+
+
+9. If log₃(x) = 4, find x.
+
+
+10. State whether each is defined or not:
+
+
+
+log₅(−25)
+
+log₁(10)
+
+log₂(1)
+
+
+
+---
+
+💡 Placement Tip
+
+In placement aptitude tests, most logarithm questions are based on identities, simplification, and change of base rather than lengthy calculations. Learn the product, quotient, and power rules, memorize common powers (such as 2⁶ = 64, 3⁴ = 81, 5⁴ = 625), and use the change of base formula whenever the base cannot be simplified directly. This approach allows you to solve most logarithm questions in under one minute.
