@@ -1,0 +1,428 @@
+2️⃣ PROGRESSIONS – GEOMETRIC PROGRESSION (GP) (FOUNDATION – PLACEMENT LEVEL)
+
+🔹 What is Geometric Progression (GP)?
+
+A Geometric Progression (GP) is a sequence of numbers in which each term is obtained by multiplying the previous term by the same fixed number.
+
+This fixed number is called the Common Ratio (r).
+
+👉 Examples:
+
+2, 4, 8, 16, 32, ...
+
+3, 6, 12, 24, ...
+
+81, 27, 9, 3, 1, ...
+
+
+Geometric Progression questions test:
+
+Pattern recognition
+
+Logical thinking
+
+Formula application
+
+Speed and accuracy
+
+
+These are commonly asked in placement aptitude tests and competitive exams.
+
+
+---
+
+🔹 Important Terms in GP
+
+1. First Term (a)
+
+The first number of the sequence.
+
+Example:
+
+5, 10, 20, 40...
+
+First term = 5
+
+
+---
+
+2. Common Ratio (r)
+
+The number by which each term is multiplied to get the next term.
+
+Formula:
+
+r = Second Term ÷ First Term
+
+Example:
+
+4, 12, 36, 108...
+
+r = 12 ÷ 4 = 3
+
+⚠️ The common ratio can be:
+
+Greater than 1 → Increasing GP
+
+Between 0 and 1 → Decreasing GP
+
+Negative → Terms alternate between positive and negative
+
+
+
+---
+
+3. nth Term (Tₙ)
+
+The value of the term at any position.
+
+Formula:
+
+Tₙ = a × r⁽ⁿ⁻¹⁾
+
+Where:
+
+a = First term
+
+r = Common ratio
+
+n = Term number
+
+
+
+---
+
+🔹 Types of Geometric Progression
+
+1. Increasing GP
+
+Common ratio > 1
+
+Example:
+
+2, 6, 18, 54...
+
+r = 3
+
+
+---
+
+2. Decreasing GP
+
+0 < r < 1
+
+Example:
+
+64, 32, 16, 8...
+
+r = 1/2
+
+
+---
+
+3. Alternating GP
+
+Common ratio is negative.
+
+Example:
+
+2, −4, 8, −16, 32...
+
+r = −2
+
+
+---
+
+🔹 Formula Sheet (Must Remember)
+
+nth Term
+
+Tₙ = a × r⁽ⁿ⁻¹⁾
+
+
+---
+
+Sum of First n Terms (r ≠ 1)
+
+Sₙ = a(rⁿ − 1) / (r − 1)
+
+OR
+
+Sₙ = a(1 − rⁿ) / (1 − r)
+
+Both formulas are correct. Choose the one that avoids negative values.
+
+
+---
+
+Sum of Infinite GP
+
+Applicable only when |r| < 1
+
+S∞ = a / (1 − r)
+
+⚠️ If |r| ≥ 1, the infinite sum does not exist.
+
+
+---
+
+🔹 Example 1 (Finding Common Ratio)
+
+Find the common ratio.
+
+Sequence:
+
+3, 9, 27, 81...
+
+Solution:
+
+9 ÷ 3 = 3
+
+27 ÷ 9 = 3
+
+81 ÷ 27 = 3
+
+✅ Common Ratio = 3
+
+
+---
+
+🔹 Example 2 (Finding nth Term)
+
+Find the 6th term of:
+
+2, 6, 18, 54...
+
+Given:
+
+a = 2
+
+r = 3
+
+n = 6
+
+Using the formula:
+
+T₆ = 2 × 3⁵
+
+= 2 × 243
+
+= 486
+
+✅ 6th term = 486
+
+
+---
+
+🔹 Example 3 (Finding the Sum)
+
+Find the sum of the first 5 terms.
+
+Sequence:
+
+2, 4, 8, 16, ...
+
+Given:
+
+a = 2
+
+r = 2
+
+n = 5
+
+Using:
+
+S₅ = 2(2⁵ − 1)/(2 − 1)
+
+= 2(32 − 1)
+
+= 2 × 31
+
+= 62
+
+✅ Sum = 62
+
+
+---
+
+🔹 Example 4 (Finding Missing Term)
+
+Find x:
+
+5, 10, x, 40, 80
+
+Common ratio:
+
+10 ÷ 5 = 2
+
+Next term:
+
+10 × 2 = 20
+
+20 × 2 = 40
+
+✅ x = 20
+
+
+---
+
+🔹 Example 5 (Infinite GP)
+
+Find the sum of:
+
+8 + 4 + 2 + 1 + ...
+
+Given:
+
+a = 8
+
+r = 1/2
+
+Using:
+
+S∞ = 8/(1 − 1/2)
+
+= 8/(1/2)
+
+= 16
+
+✅ Infinite Sum = 16
+
+
+---
+
+🔹 Important Tricks (Placement Shortcuts)
+
+Trick 1
+
+To check whether numbers form a GP:
+
+Divide consecutive terms.
+
+If the ratio remains the same, it is a GP.
+
+
+---
+
+Trick 2
+
+Middle term of three numbers in GP:
+
+(Middle Term)² = First × Third
+
+Example:
+
+4, x, 36
+
+x² = 4 × 36
+
+= 144
+
+x = 12
+
+✅ Middle term = 12
+
+
+---
+
+Trick 3
+
+Find the number of terms quickly
+
+If:
+
+Last = a × r⁽ⁿ⁻¹⁾
+
+Then solve:
+
+n = [(log(Last/a)) / log(r)] + 1
+
+⚠️ This is useful when the last term is given.
+
+
+---
+
+Trick 4
+
+If the ratio is 2, 3, 5, etc., calculate powers mentally:
+
+2⁵ = 32
+
+2⁶ = 64
+
+3⁴ = 81
+
+3⁵ = 243
+
+5⁴ = 625
+
+Memorizing common powers saves a lot of time.
+
+
+---
+
+⚠️ Common Mistakes
+
+Do not subtract terms to find the common ratio. Always divide consecutive terms.
+
+Do not confuse the Common Ratio (r) of GP with the Common Difference (d) of AP.
+
+Use the infinite sum formula only when |r| < 1.
+
+Be careful with negative ratios because the signs alternate.
+
+
+
+---
+
+📝 PRACTICE (Very Important)
+
+1. Find the common ratio of:
+
+7, 21, 63, 189...
+
+
+
+2. Find the 8th term of:
+
+5, 10, 20, 40...
+
+
+
+3. Find the sum of the first 6 terms of:
+
+3, 6, 12, 24...
+
+
+
+4. Find the missing term:
+
+9, 27, x, 243
+
+
+
+5. Find the sum of the infinite GP:
+
+12 + 6 + 3 + 1.5 + ...
+
+
+
+6. Determine whether the sequence is a GP:
+
+81, 27, 9, 3, 1
+
+
+
+7. Find the middle term of:
+
+2, x, 18
+
+
+
+
+
+---
+
+💡 Placement Tip
+
+Most placement questions on GP involve finding the common ratio, the nth term, the sum of n terms, or identifying whether a sequence is a GP. Learn the formulas Tₙ = a × r⁽ⁿ⁻¹⁾, Sₙ = a(rⁿ − 1)/(r − 1), and S∞ = a/(1 − r) (for |r| < 1). Also memorize common powers such as 2⁵ = 32, 3⁵ = 243, and 5⁴ = 625 to solve questions much faster during placement aptitude tests.
