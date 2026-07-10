@@ -1,0 +1,360 @@
+2️⃣ PROFIT & LOSS – FOUNDATION (Placement Level)
+
+🔹 What is Profit & Loss?
+
+Profit and Loss is one of the most important aptitude topics. It deals with the buying price and selling price of an item to determine whether there is a profit (gain) or loss.
+
+This topic tests:
+
+Calculation ability
+
+Logical thinking
+
+Percentage concepts
+
+Speed and accuracy
+
+
+It is very frequently asked in placement aptitude tests.
+
+
+---
+
+🔹 Important Terms (Must Remember)
+
+1. Cost Price (CP)
+
+The Cost Price (CP) is the price at which an item is purchased.
+
+👉 Also called Buying Price.
+
+Example:
+
+A shopkeeper buys a bag for ₹500.
+
+Cost Price (CP) = ₹500
+
+
+---
+
+2. Selling Price (SP)
+
+The Selling Price (SP) is the price at which an item is sold.
+
+Example:
+
+The bag is sold for ₹650.
+
+Selling Price (SP) = ₹650
+
+
+---
+
+3. Profit (Gain)
+
+If the Selling Price is greater than the Cost Price, there is a Profit.
+
+Formula:
+
+Profit = SP − CP
+
+
+---
+
+4. Loss
+
+If the Selling Price is less than the Cost Price, there is a Loss.
+
+Formula:
+
+Loss = CP − SP
+
+
+---
+
+🔹 Conditions
+
+SP > CP → Profit
+
+SP < CP → Loss
+
+SP = CP → No Profit, No Loss
+
+
+
+---
+
+🔹 Profit Percentage
+
+Formula:
+
+Profit % = (Profit / CP) × 100
+
+⚠️ Profit percentage is always calculated on the Cost Price (CP).
+
+
+---
+
+🔹 Loss Percentage
+
+Formula:
+
+Loss % = (Loss / CP) × 100
+
+⚠️ Loss percentage is also always calculated on the Cost Price (CP).
+
+
+---
+
+🔹 Selling Price Formulas
+
+When Profit is Given
+
+SP = CP × (100 + Profit%)/100
+
+
+---
+
+When Loss is Given
+
+SP = CP × (100 − Loss%)/100
+
+
+---
+
+🔹 Cost Price Formulas
+
+When Profit is Given
+
+CP = (SP × 100)/(100 + Profit%)
+
+
+---
+
+When Loss is Given
+
+CP = (SP × 100)/(100 − Loss%)
+
+
+---
+
+🔹 Example 1 (Finding Profit)
+
+A shopkeeper buys a watch for ₹800 and sells it for ₹950.
+
+Profit
+
+= SP − CP
+
+= 950 − 800
+
+= ₹150
+
+✅ Profit = ₹150
+
+
+---
+
+🔹 Example 2 (Finding Loss)
+
+A bicycle is bought for ₹6000 and sold for ₹5400.
+
+Loss
+
+= CP − SP
+
+= 6000 − 5400
+
+= ₹600
+
+✅ Loss = ₹600
+
+
+---
+
+🔹 Example 3 (Finding Profit Percentage)
+
+Cost Price = ₹500
+
+Selling Price = ₹650
+
+Profit
+
+= 650 − 500
+
+= ₹150
+
+Profit %
+
+= (150/500) × 100
+
+= 30%
+
+✅ Profit = 30%
+
+
+---
+
+🔹 Example 4 (Finding Selling Price)
+
+Cost Price = ₹1200
+
+Profit = 25%
+
+SP
+
+= 1200 × 125/100
+
+= ₹1500
+
+✅ Selling Price = ₹1500
+
+
+---
+
+🔹 Example 5 (Finding Cost Price)
+
+Selling Price = ₹720
+
+Loss = 10%
+
+CP
+
+= (720 × 100)/90
+
+= ₹800
+
+✅ Cost Price = ₹800
+
+
+---
+
+🔹 Important Tricks (Placement Shortcuts)
+
+Trick 1
+
+Remember the basic relationship:
+
+SP > CP → Profit
+
+SP < CP → Loss
+
+SP = CP → No Profit, No Loss
+
+
+
+---
+
+Trick 2
+
+Increase by Profit%
+
+Selling Price = Cost Price × (100 + Profit%)/100
+
+Example:
+
+Profit = 20%
+
+Multiply CP by 120/100
+
+
+---
+
+Trick 3
+
+Decrease by Loss%
+
+Selling Price = Cost Price × (100 − Loss%)/100
+
+Example:
+
+Loss = 15%
+
+Multiply CP by 85/100
+
+
+---
+
+Trick 4
+
+Common Multipliers
+
+Profit/Loss	Multiplier
+
+10% Profit	1.10
+20% Profit	1.20
+25% Profit	1.25
+50% Profit	1.50
+10% Loss	0.90
+20% Loss	0.80
+25% Loss	0.75
+50% Loss	0.50
+
+
+⚠️ These help solve questions mentally.
+
+
+---
+
+Trick 5
+
+Never calculate Profit% or Loss% using the Selling Price.
+
+Always use the Cost Price as the base.
+
+
+---
+
+⚠️ Common Mistakes
+
+Do not calculate Profit% or Loss% using SP.
+
+Carefully identify whether the question asks for CP, SP, Profit, Loss, Profit%, or Loss%.
+
+Keep the units (₹) consistent throughout the calculation.
+
+Read the question carefully before applying a formula.
+
+
+
+---
+
+📝 PRACTICE (Very Important)
+
+1. A book is bought for ₹450 and sold for ₹540. Find the profit.
+
+
+2. A mobile phone is bought for ₹15,000 and sold for ₹13,500. Find the loss.
+
+
+3. Find the profit percentage if CP = ₹800 and SP = ₹920.
+
+
+4. Find the selling price of an article costing ₹2,000 at a 15% profit.
+
+
+5. Find the cost price if an article is sold for ₹900 at a 10% profit.
+
+
+6. A chair is sold for ₹680 at a 15% loss. Find the cost price.
+
+
+7. A pen costs ₹40 and is sold for ₹40. What is the profit or loss?
+
+
+8. A laptop costing ₹50,000 is sold at a 12% profit. Find the selling price.
+
+
+9. An article is bought for ₹960 and sold for ₹864. Find the loss percentage.
+
+
+10. A television is sold for ₹18,000 at a 20% profit. Find the cost price.
+
+
+
+
+---
+
+💡 Placement Tip
+
+Profit & Loss is one of the highest-weightage aptitude topics because it forms the base for Discounts, Marked Price, Successive Percentage Changes, and Simple & Compound Interest. Memorize the four key formulas for Profit, Loss, Profit%, and Loss%, and remember that percentages are always calculated on the Cost Price (CP). With regular practice, most foundation-level questions can be solved in under one minute.
