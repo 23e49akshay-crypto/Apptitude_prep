@@ -1,0 +1,381 @@
+3️⃣ PROGRESSIONS – HARMONIC PROGRESSION (HP) (FOUNDATION – PLACEMENT LEVEL)
+
+🔹 What is Harmonic Progression (HP)?
+
+A Harmonic Progression (HP) is a sequence of numbers whose reciprocals form an Arithmetic Progression (AP).
+
+In simple words:
+
+👉 If you take the reciprocal (1/number) of every term in an HP, you will get an AP.
+
+Example:
+
+1, 1/2, 1/3, 1/4, 1/5...
+
+Reciprocals:
+
+1, 2, 3, 4, 5...
+
+Since 1, 2, 3, 4, 5 is an AP, the original sequence is an HP.
+
+Harmonic Progression questions test:
+
+Logical thinking
+
+Understanding of reciprocals
+
+Pattern recognition
+
+Formula application
+
+
+HP is less common than AP and GP but is still asked in placement aptitude tests and competitive exams.
+
+
+---
+
+🔹 Important Terms in HP
+
+1. First Term (a)
+
+The first number of the sequence.
+
+Example:
+
+1/2, 1/4, 1/6, 1/8...
+
+First term = 1/2
+
+
+---
+
+2. Arithmetic Progression Behind HP
+
+Always convert HP into AP using reciprocals.
+
+Example:
+
+1/3, 1/6, 1/9, 1/12...
+
+Reciprocals:
+
+3, 6, 9, 12...
+
+This is an AP with:
+
+a = 3
+
+d = 3
+
+⚠️ This is the most important concept in HP.
+
+
+---
+
+🔹 How to Identify an HP?
+
+Step 1
+
+Take the reciprocal of every term.
+
+Step 2
+
+Check whether the reciprocals form an AP.
+
+If YES, the sequence is an HP.
+
+
+---
+
+🔹 Formula Sheet (Must Remember)
+
+There is no direct nth-term or sum formula commonly used for HP in placement exams.
+
+Instead, use the AP formulas on the reciprocals.
+
+If the reciprocal AP has:
+
+First term = A
+
+Common difference = d
+
+
+Then:
+
+Reciprocal of nth HP term = A + (n − 1)d
+
+Therefore,
+
+HP nth term = 1 / [A + (n − 1)d]
+
+
+---
+
+🔹 Example 1 (Checking Whether It Is HP)
+
+Sequence:
+
+1/2, 1/5, 1/8, 1/11
+
+Take reciprocals:
+
+2, 5, 8, 11
+
+Difference:
+
+5 − 2 = 3
+
+8 − 5 = 3
+
+11 − 8 = 3
+
+Since the reciprocals form an AP,
+
+✅ The given sequence is an HP.
+
+
+---
+
+🔹 Example 2 (Finding the Next Term)
+
+Find the next term.
+
+1/4, 1/7, 1/10, ...
+
+Reciprocals:
+
+4, 7, 10
+
+Common difference = 3
+
+Next reciprocal:
+
+13
+
+Therefore,
+
+Next HP term = 1/13
+
+✅ Answer = 1/13
+
+
+---
+
+🔹 Example 3 (Finding the 6th Term)
+
+Find the 6th term.
+
+Sequence:
+
+1/3, 1/6, 1/9...
+
+Reciprocals:
+
+3, 6, 9...
+
+Here,
+
+A = 3
+
+d = 3
+
+6th reciprocal:
+
+= 3 + (6 − 1) × 3
+
+= 18
+
+Therefore,
+
+6th HP term = 1/18
+
+✅ Answer = 1/18
+
+
+---
+
+🔹 Example 4 (Finding Missing Term)
+
+Find x.
+
+1/2, x, 1/6
+
+Reciprocals:
+
+2, 1/x, 6
+
+Since reciprocals are in AP,
+
+Middle term = (2 + 6)/2
+
+= 4
+
+Therefore,
+
+1/x = 4
+
+x = 1/4
+
+✅ Answer = 1/4
+
+
+---
+
+🔹 Example 5 (Checking a Sequence)
+
+Determine whether:
+
+1, 1/3, 1/5, 1/7
+
+is an HP.
+
+Reciprocals:
+
+1, 3, 5, 7
+
+Difference:
+
+2, 2, 2
+
+Equal difference
+
+✅ It is an HP.
+
+
+---
+
+🔹 Important Tricks (Placement Shortcuts)
+
+Trick 1
+
+Whenever you see fractions,
+
+Take reciprocals first.
+
+Almost every HP question becomes an AP question.
+
+
+---
+
+Trick 2
+
+Never try to calculate differences directly in HP.
+
+Always convert to reciprocals first.
+
+
+---
+
+Trick 3
+
+Middle term of three HP numbers
+
+If
+
+a, b, c are in HP,
+
+Then,
+
+2/b = 1/a + 1/c
+
+⚠️ This is one of the most asked HP properties.
+
+Example:
+
+3, x, 12 are in HP.
+
+Using:
+
+2/x = 1/3 + 1/12
+
+= 4/12 + 1/12
+
+= 5/12
+
+Therefore,
+
+x = 24/5
+
+✅ Answer = 24/5
+
+
+---
+
+Trick 4
+
+Remember the relationship:
+
+AP → Equal Difference
+
+GP → Equal Ratio
+
+HP → Reciprocals form an AP
+
+
+This shortcut helps quickly identify the progression type.
+
+
+---
+
+⚠️ Common Mistakes
+
+Do not check the difference between HP terms directly.
+
+Always take reciprocals first.
+
+HP itself does not have a constant difference or ratio.
+
+Most HP problems are solved using AP concepts after converting to reciprocals.
+
+
+
+---
+
+📝 PRACTICE (Very Important)
+
+1. Determine whether the sequence is an HP:
+
+1/4, 1/7, 1/10, 1/13
+
+
+
+2. Find the next term:
+
+1/5, 1/8, 1/11, ...
+
+
+
+3. Find the 8th term of:
+
+1/2, 1/4, 1/6, ...
+
+
+
+4. Find the missing term:
+
+1/3, x, 1/9
+
+
+
+5. Are the numbers
+
+1, 1/2, 1/4, 1/8 an HP? Explain.
+
+
+
+6. Three numbers are in HP. The first and third terms are 4 and 12. Find the middle term.
+
+
+7. Convert the following HP into its corresponding AP:
+
+1/6, 1/9, 1/12, 1/15
+
+
+
+
+
+---
+
+💡 Placement Tip
+
+In placement aptitude tests, Harmonic Progression is usually tested through basic concepts rather than lengthy calculations. The key idea is simple: convert the HP into an AP by taking reciprocals, then solve the problem using AP formulas and properties. If you remember that AP → Difference, GP → Ratio, HP → Reciprocals form an AP, you can solve most HP questions in 30–60 seconds.
